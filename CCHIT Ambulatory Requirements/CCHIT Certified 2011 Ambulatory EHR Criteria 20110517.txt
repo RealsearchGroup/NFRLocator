@@ -1,0 +1,306 @@
+The system shall create a single patient record for each patient.
+The system shall associate (store and link) key identifier information (e.g., system ID, medical record number) with each patient record.
+The system shall provide the ability to store more than one identifier for each patient record.
+The system shall provide a field which will identify patients as being exempt from reporting functions.
+The system shall provide the ability to merge patient information from two patient records into a single patient record.
+The system shall provide the ability to include demographic information in reports.
+The system shall provide the ability to maintain and make available historic information for demographic data including prior names, addresses, phone numbers and email addresses.
+The system shall provide the ability to modify demographic information about the patient.
+The system shall store demographic information in the patient medical record in separate discrete data fields, such that data extraction tools can retrieve these data.
+The system shall provide the ability to access demographic information such as name, date of birth and gender needed for patient care functions.
+The system shall capture and maintain demographic information as discrete data elements as part of the patient record.
+The system shall provide the ability to query for a patient by more than one form of identification.
+The system shall provide the ability to capture and maintain, as discrete data elements, the identity of all providers associated with a specific patient encounter.
+The system shall provide the ability to capture and maintain, as discrete data elements, the principal provider responsible for the care of an individual patient.
+The system shall provide the ability to capture, maintain and display, as discrete data elements, all problems/diagnoses associated with a patient.
+The system shall provide the ability to maintain the onset date of the problem/diagnosis.
+The system shall provide the ability to maintain the resolution date of the problem/diagnosis.
+The system shall provide the ability to record the chronicity (chronic, acute/self-limiting, etc.) of a problem/diagnosis.
+The system shall provide the ability to record the user ID and date of all updates to the problem/diagnosis list. 
+The system shall provide the ability to associate orders, medications, and notes with one or more problems/diagnoses.
+The system shall provide the ability to associate orders and medications with one or more codified problems/diagnoses.
+The system shall provide the ability to maintain a coded list of problems/diagnoses.
+The system shall provide the ability to display different views of the problem / diagnosis list based upon the status of the problem.
+The system shall provide the ability to capture, maintain and display free text comments associated with the problem / diagnosis.
+The system shall provide the ability to record the prescribing of medications including the identity of the prescriber.
+The system shall provide the ability to maintain medication ordering dates.
+The system shall provide the ability to maintain other dates associated with medications including start, modify, renewal and end dates as applicable.
+The system shall provide the ability to display medication history for the patient.
+The system shall provide the ability to capture medications entered by authorized users other than the prescriber.
+The system shall store medication information in discrete data fields.  At a minimum, there must be one field for each of the following:
+- medication name, form and strength;
+- dispense quantity;
+- refills; and
+- sig.
+The system shall provide the ability to enter uncoded or free text medications when medications are not on the vendor-provided medication database or information is insufficient to completely identify the medication.
+The system shall provide the ability to enter or further specify in a discrete field that the patient takes no medications.
+The system shall provide the ability to record the date of changes made to a patient's medication list and the identity of the user who made the changes.  
+The system shall provide the ability to update and display a patient-specific medication list based on current medication orders or prescriptions.
+The system shall provide the ability to display a view that includes only current medications.
+The system shall provide the ability to exclude a medication from the current medication list (e.g. marked inactive, erroneous, completed, discontinued) and document reason for such action.
+The system shall provide the ability to print a current medication list.
+The system shall provide the ability to display that the patient takes no medications.
+The system shall provide the ability to capture and maintain, as discrete data elements, all current medications including over-the-counter and complementary medications such as vitamins, herbs and supplements.
+The system shall provide the ability to modify or inactivate an item on the allergy and adverse reaction list.
+The system shall provide the ability to display information which has been inactivated or removed from the allergy and adverse reaction list. 
+The system shall provide the ability to specify the type of allergic or adverse reaction in a discrete data field.
+The system shall provide the ability to capture and maintain, as discrete data, the identity of the user who added, modified, inactivated or removed items from the allergy and adverse reaction list, including attributes of the changed items.  The user ID and date/time stamp shall be recorded.
+The system shall provide the ability for a user to explicitly capture and maintain, as discrete data, that the allergy list was reviewed.  The user ID and date/time stamp shall be recorded when the allergies reviewed option is selected.
+The system shall provide the ability to explicitly indicate in a discrete field that a patient has no known drug allergies or adverse reactions.
+The system shall provide the ability to display the allergy list, including date of entry.
+The system shall provide the ability to capture, maintain and display, as discrete data, lists of medications and other agents to which the patient has had an allergic or other adverse reaction.
+The system shall provide the ability to capture, store, display, and manage patient history. 
+The system shall provide the ability to capture structured data in the patient history.  
+The system shall provide the ability to update a patient history by modifying, adding or removing items from the patient history as appropriate.
+The system shall provide the ability to capture patient history as both a presence and absence of conditions, i.e., the specification of the absence of a personal or family history of a specific diagnosis, procedure or health risk behavior.
+The system shall provide the ability to capture history collected from outside sources.
+The system shall provide the ability to capture patient history in a standard coded form.
+The system shall provide the ability to create and display a summary list for each patient that includes, at a minimum, the active problem/diagnosis list, current medication list, medication allergies and adverse reactions
+The system shall provide the ability to create clinical documentation or notes (henceforth "documentation").
+The system shall provide the ability to display documentation.
+The system shall provide the ability to save a note in progress prior to finalizing the note.
+The system shall provide the ability to finalize a note, i.e., change the status of the note from in progress to complete so that any subsequent changes are recorded as such.
+The system shall provide the ability to record the identity of the user finalizing each note and the date and time of finalization.
+The system shall provide the ability to cosign a note and record the date and time of signature.
+The system shall provide the ability to addend and/or correct notes that have been finalized.
+The system shall provide the ability to identify the full content of a modified note, both the original content and the content resulting after any changes, corrections, clarifications, addenda, etc. to a finalized note.
+The system shall provide the ability to record and display the identity of the user who addended or corrected a note and the date and time of the change.
+The system shall provide the ability to enter free text notes.
+The system shall provide the ability to filter, search or order notes by the provider who finalized the note.
+The system shall provide the ability to filter, search or order notes by associated diagnosis within a patient record.
+The system shall provide the ability to capture patient vital signs, including blood pressure, heart rate, respiratory rate, height, and weight, as discrete data.
+The system shall provide the ability to capture and display temperature, weight and height in both metric and English units
+The system shall be capable of indicating to the user when a vital sign measurement falls outside a preset normal range as set by authorized users. 
+The system shall provide the ability to capture other clinical data elements as discrete data. 
+The system shall provide templates for inputting data in a structured format as part of clinical documentation.
+The system shall provide the ability to customize clinical templates.
+The system shall be capable of recording comments by the patient or the patient's representative regarding the accuracy or veracity of information in the patient record (henceforth 'patient annotations').
+The system shall display patient annotations in a manner which distinguishes them from other content in the system.
+The system shall provide the ability to graph height and weight over time.
+The system shall provide the ability to calculate and display body mass index (BMI).
+The system shall provide the ability to capture and store external documents.
+The system shall provide the ability to save scanned documents as images.
+The system shall provide the ability to receive, store in the patient's record, and display text-based outside reports.
+The system shall provide the ability to index scanned documents and associate a date and document type to the document.
+The system shall provide the ability to retrieve indexed scanned documents based on document type and date.
+The system shall provide access to clinical images.  They must be accessible from within the patient's chart and labeled and date-time stamped or included in a patient encounter document.  These images may be stored within the system or be provided through direct linkage to external sources.
+The system shall provide the ability to accept, store in the patient's record, and display clinical results received through an interface with an external source.
+The system shall provide the ability to produce patient instructions and patient educational materials which may reside within the system or be provided through links to external source.
+The system shall have the ability to provide access to patient-specific test and procedure instructions that can be modified by the physician or health organization; these instructions are to be given to the patient.  These instructions may reside within the system or be provided through links to external sources.
+The system shall have the ability to provide access to patient-specific test and procedure instructions that can be modified by the physician or health organization; these instructions are to be given to the filler of the order.  These instructions may reside within the system or be provided through links to external sources.
+The system shall provide the ability to record that patient specific instructions or educational material were provided to the patient.
+The system shall provide the ability to create patient specific instructions.
+The system shall provide the ability to access and review medication information (such as patient education material or drug monograph).  This may reside within the system or be provided through links to external sources.
+The system shall provide the ability to create prescription or other medication orders with sufficient information for correct filling and dispensing by a pharmacy.
+The system shall provide the ability to record user and date stamp for prescription related events, such as initial creation, renewal, refills, discontinuation, and cancellation of a prescription.
+The system shall provide the ability to capture the identity of the prescribing provider for all medication orders.
+The system shall provide the ability to capture common content for prescription details including strength, sig, quantity, and refills to be selected by the ordering clinician.
+The system shall provide the ability to receive and display information received through electronic prescription eligibility checking.
+The system shall provide the ability to reorder a prior prescription without re-entering previous data (e.g. administration schedule, quantity).
+The system shall provide the ability to print and electronically fax prescriptions.
+The system shall provide the ability to re-print and re-fax prescriptions. 
+The system shall provide the ability to display a dose calculator for patient-specific dosing based on weight.
+The system shall provide the ability to identify medication samples dispensed, including lot number and expiration date.
+The system shall provide the ability to prescribe fractional amounts of medication (e.g. 1/2 tsp, 1/2 tablet).
+The system shall provide the ability to alert the user if the drug interaction information is outdated.
+The system shall provide the ability to allow the user to configure prescriptions to incorporate fixed text according to the user's specifications.
+The system shall provide the ability to capture and maintain, as discrete data, a diagnosis/problem code or description associated with an order of any type (including prescriptions and medications ordered for administration).
+The system shall provide the ability to display the associated problem or diagnosis (indication) on the printed prescription.
+The system shall provide the ability to create provider specific medication lists of the most commonly prescribed drugs with a default route, dose, frequency, and quantity.
+The system shall provide the ability to add reminders for necessary follow up tests based on medication prescribed.
+The system shall provide the ability to alert the user at the time a new medication is prescribed/ordered that drug interaction, allergy, and formulary checking will not be performed against the uncoded medication or free text medication.
+The system shall provide the ability to prescribe/order uncoded and non-formulary medications.
+The system shall provide the ability to maintain a coded list of medications including a unique identifier for each medication.
+The system shall provide end-users the ability to search for medications by generic or brand name.
+The system shall provide the ability to access reference information for prescribing/ordering.
+The system shall provide the ability to order diagnostic tests, including labs and imaging studies.
+The system shall provide the ability to capture the identity of the ordering provider for all test orders.
+The system shall provide the ability to capture appropriate order entry detail, including associated diagnosis.
+The system shall provide the ability to display user created instructions and/or prompts when ordering diagnostic tests or procedures.  
+The system shall provide the ability to relay orders for a diagnostic test to the correct destination for completion.
+The system shall have the ability to provide a view of active orders for an individual patient. 
+The system shall have the ability to provide a view of orders by like or comparable type, e.g., all radiology or all lab orders.
+The system shall provide the ability to display outstanding orders for multiple patients (as opposed to outstanding orders for a single patient).
+The system shall provide the ability to require problem / diagnosis as an order component.
+The system shall provide the ability to view status information for ordered services.
+The system shall provide the ability to define a set of items to be ordered as a group.
+The system shall provide the ability to modify order sets.
+The system shall provide the ability to include in an order set order types including but not limited to medications, laboratory tests, imaging studies, procedures and referrals.
+The system shall provide the ability for individual orders in an order set to be selected or deselected by the user.
+The system shall provide the ability to display orders placed through an order set either individually or as a group.
+The system shall provide the ability to indicate normal and abnormal results based on data provided from the original data source.  
+The system shall provide the ability to display numerical results in flow sheets and graphical form in order to compare results, and shall provide the ability to display values graphed over time.
+The system shall provide the ability to display non-numeric current and historical test results as textual data.
+The system shall provide the ability to notify the relevant providers (ordering, copy to) that new results have been received. 
+The system shall provide the ability to filter or sort results by type of test and test date.
+The system shall provide the ability to forward a result to other users.
+The system shall provide the ability to link the results to the original order.
+The system shall provide the ability for a user to attach a free text comment to a result that can be seen by another user who might subsequently view that result.  
+The system shall provide the ability to associate one or more images with a non-numerical result.
+The system shall provide the ability for a user to whom a result is presented to acknowledge the result. 
+The system shall provide the ability to capture scanned paper consent documents (covered in DC.1.1.3.1).
+The system shall provide the ability to store, display and print patient consent forms.  
+The system shall provide the ability to store and display administrative documents (e.g. privacy notices).
+The system shall provide the ability to chronologically display consents and authorizations.
+The system shall provide the ability to indicate that a patient has completed advance directive(s).
+The system shall provide the ability to indicate the type of advance directives, such as living will, durable power of attorney, or a "Do Not Resuscitate" order.
+The system shall provide the ability to indicate when advance directives were last reviewed.
+The system shall have the ability to provide access to standard care plan, protocol and guideline documents when requested at the time of the clinical encounter. These documents may reside within the system or be provided through links to external sources. 
+The system shall provide the ability to create site-specific care plan, protocol, and guideline documents.
+The system shall provide the ability to modify site-specific standard care plan, protocol, and guideline documents obtained from outside sources.
+The system shall provide the ability to check for potential interactions between medications to be prescribed and medication allergies and intolerances listed in the record and alert the user at the time of medication prescribing/ordering if potential interactions exist.
+The system shall provide the ability to set the severity level at which drug interaction warnings should be displayed. 
+The system shall provide the ability to display, on demand, potential drug-allergy interactions, drug-drug interactions and drug-diagnosis interactions based on current medications, active allergies and active problems.
+The system shall provide drug-diagnosis interaction alerts at the time of medication prescribing/ordering.
+The system shall provide the ability, when a new allergy is documented, to check for a potential interaction between the newly-documented allergy and the patient's current medications, and alert the user if such interactions exist.
+The system shall provide the ability to check for potential interactions between medications to be prescribed/ordered and current medications and alert the user at the time of medication prescribing/ordering if potential interactions exist.
+The system shall provide the ability to view the rationale for a drug interaction alert.
+The system shall provide the ability to capture and maintain at least one reason for overriding any drug-drug or drug-allergy/intolerance interaction warning triggered at the time of medication prescribing/ordering.
+The system shall provide the ability to enter a structured response when overriding a drug-drug or drug-allergy/intolerance warning.
+The system shall provide the ability to prescribe/order a medication despite alerts for interactions and/or allergies/intolerances being present.
+The system shall provide the ability to accept updates to drug interaction databases
+The system shall provide the ability to capture medication administration details as discrete data, including:
+(1) the medication name and dose;
+(2) date and time of administration;
+(3) route and site;
+(4) lot number and expiration date;
+(5) manufacturer; and
+(6) user ID.
+The system shall provide the ability to capture, in a discrete field, an allergy/adverse reaction to a specific immunization.
+The system shall provide the ability to capture immunization administration details as discrete data, including:
+(1) the immunization type and dose; 
+(2) date and time of administration; 
+(3) route and site; 
+(4) lot number and expiration date; 
+(5) manufacturer; and
+(6) user ID.
+The system shall provide the ability to create referral orders with detail adequate for correct routing.
+The system shall provide the ability to record user ID and date/time stamp for all referral related events.
+The system shall provide the ability to establish criteria for disease management, wellness, and preventive services based on patient demographic data (minimally age and gender).
+The system shall provide the ability to display alerts based on established guidelines.
+The system shall provide the ability to establish criteria for disease management, wellness, and preventive services based on clinical data (problem/diagnosis list, current medications).
+The system shall provide the ability to update disease management guidelines and any associated reference material. 
+The system shall provide the ability to update preventive services/wellness guidelines and any associated reference material. 
+The system shall provide the ability to override guidelines.
+The system shall provide the ability to document reasons disease management or preventive services/wellness prompts were overridden.
+The system shall provide the ability to modify the rules or parameters upon which guideline-related alerts are based. 
+The system shall provide the ability to document that a preventive or disease management service has been performed based on activities documented in the record (e.g., vitals signs taken). 
+The system shall provide the ability to document that a disease management or preventive service has been performed with associated dates or other relevant details recorded.
+The system shall provide the ability to individualize alerts to address a patient's specific clinical situation.
+The system shall provide the ability to identify preventive services, tests or counseling that are due on an individual patient.
+The system shall provide the ability to display reminders for disease management, preventive and wellness services in the patient record.
+The system shall provide the ability to identify criteria for disease management, preventive and wellness services based on patient demographic data (age, gender).
+The system shall provide the ability to identify criteria for disease management, preventive, and wellness services based on clinical data (problem/diagnosis list, current medications, lab values).
+The system shall provide the ability to modify the guidelines, criteria or rules that trigger the reminders. 
+The system shall provide the ability to notify the provider that patients are due or are overdue for disease management, preventive or wellness services.
+The system shall provide the ability to produce a list of patients who are due or are overdue for disease management, preventive or wellness services.
+The system shall provide the ability to automatically generate reminder letters for patients who are due or are overdue for disease management, preventive or wellness services.
+The system shall provide the ability to create and assign tasks by user or user role.
+The system shall provide the ability to present a list of tasks by user or user role.
+The system shall provide the ability to re-assign and route tasks from one user to another user.
+The system shall provide the ability to designate a task as completed.
+The system shall provide the ability to remove a task without completing the task.
+The system shall provide the ability to document verbal/telephone communication into the patient record. 
+The system shall support messaging between users.
+The system shall have the ability to provide electronic communication between prescribers and pharmacies or other intended recipients of the medication order.
+The system shall provide the ability to maintain a directory of all clinical personnel who currently use or access the system.
+The system shall provide the ability to maintain a directory which contains identifiers required for licensed clinicians to support the practice of medicine including at a minimum state medical license, DEA, and NPI. 
+The system shall allow authorized users to update the directory.
+The system shall provide the ability to create and maintain a directory of clinical personnel external to the organization who are not users of the system to facilitate communication and information exchange.
+The system shall provide the ability to display a schedule of patient appointments, populated either through data entry in the system itself or through an external application interoperating with the system.
+The system shall provide the ability to generate reports of clinical and administrative data using either internal or external reporting tools.
+The system shall provide the ability to generate reports consisting of all or part of an individual patient’s medical record (e.g. patient summary).
+The system shall provide the ability to generate reports regarding multiple patients (e.g. diabetes roster).
+The system shall provide the ability to specify report parameters (sort and filter criteria) based on patient demographic and clinical data (e.g., all male patients over 50 that are diabetic and have a HbA1c value of over 7.0 or that are on a certain medication).
+The system shall provide the ability to access reports outside the EHR application.
+The system shall provide the ability to produce reports based on the absence of a clinical data element (e.g., a lab test has not been performed or a blood pressure has not been measured in the last year).
+The system shall provide the ability to save report parameters for generating subsequent reports.
+The system shall provide the ability to modify one or more parameters of a saved report specification when generating a report using that specification. 
+The system shall provide the ability to define one or more reports as the formal health record for disclosure purposes.
+The system shall provide the ability to generate hardcopy or electronic output of part or all of the individual patient's medical record.
+The system shall provide the ability to generate hardcopy and electronic output by date and/or date range.
+The system shall provide the ability to export structured data which removes those identifiers listed in the HIPAA definition of a limited dataset.  This export on hardcopy and electronic output shall leave the actual PHI data unmodified in the original record.  
+The system shall provide the ability to create hardcopy and electronic report summary information (procedures, medications, labs, immunizations, allergies, and vital signs).
+The system shall have the ability to provide support for disclosure management in compliance with HIPAA and applicable law.
+The system shall provide the ability to document encounters by one or more of the following means: direct keyboard entry of text; structured data entry utilizing templates, forms, pick lists or macro substitution; dictation with subsequent transcription of voice to text, either manually or via voice recognition system.
+The system shall provide the ability to associate individual encounters with diagnoses.
+The system shall have the ability to provide filtered displays of encounters based on encounter characteristics, including date of service, encounter provider and associated diagnosis.
+The system shall provide the ability to display medical eligibility obtained from patient's insurance carrier, populated either through data entry in the system itself or through an external application interoperating with the system.
+The system shall provide the ability to specify the role of each provider associated with a patient, such as encounter provider, primary care provider, attending, resident, or consultant using structured data.
+The system shall provide the ability to update the clinical content or rules utilized to generate clinical decision support reminders and alerts.
+The system shall provide the ability to update clinical decision support guidelines and associated reference material.
+The system shall provide the ability to capture and maintain, as discrete data, the reason for variation from rule-based clinical messages (for example alerts and reminders).
+The system shall provide a means to document a patient's dispute with information currently in their chart.
+The system shall provide the ability to identify certain information as confidential and only make that accessible by appropriately authorized users.
+The system shall provide the ability to prevent specified user(s) from accessing a designated patient's chart.
+When access to a chart is restricted, the system shall provide a means for appropriately authorized users to "break the glass" for emergency situations.
+The system shall provide the ability to retain data until otherwise purged, deleted, archived or otherwise deliberately removed.
+The system shall provide the ability to export (extract) pre-defined set(s) of data out of the system. 
+The system shall provide the ability for multiple users to interact concurrently with the EHR application. 
+The system shall provide the ability for concurrent users to simultaneously view the same record.
+The system shall provide the ability for concurrent users to view the same clinical documentation or template. 
+The system shall provide protection to maintain the integrity of clinical data during concurrent access.
+The system shall provide the ability to receive and store general laboratory results using the HL7 v.2.5.1 ORU message standard
+The system shall provide the ability to send an electronic prescription to pharmacy.
+The system shall provide the ability to respond to a request for a refill sent from a pharmacy.
+The system shall provide the ability to send a query to verify prescription drug insurance eligibility and apply response to formulary and benefit files to determine coverage.
+The system shall provide the ability to capture and display formulary information from pharmacy or PBM (Pharmacy Benefits Manager)  by applying eligibility response .
+The system shall provide the ability to send a query for medication history to PBM or pharmacy to capture and display medication list from the EHR.
+The system shall provide the ability to display HITSP C32/CCD documents and file them as intact documents in the EHR.
+Summary patient record content information will include: patient demographics, medication list, medication allergy list.
+The system shall provide the ability to generate and format patient summary  documents per the following specifications:
+- HITSP C32 (v2.3 or v2.5)   
+- Summary patient record content information will include: patient demographics, medications, medication allergies
+- Generated xml documents must demonstrate use of industry-standard vocabularies/terminologies. 
+- The intent is to test the Required (R) fields, including the product coded terminology for the medication and medication allergy. 
+The system shall provide the ability for a clinical or other authorized user to view the full content of a finalized note. The full content of a finalized note includes the finalized note and any finalized modifications to that note including finalized changes  referred to as corrections, clarifications, addenda, etc. Finalizing is the act of publishing into the system in a way that others may access information that has changed.
+The system shall provide the ability to save a note in progress prior to finalizing the note. 
+The system shall have the ability to record and display the identity and credentials of all users who entered all or part of a note even if they did not finalize the note.
+The system shall enforce the most restrictive set of rights/privileges or accesses needed by users/groups (e.g. System Administration, Clerical, Nurse, Doctor, etc.), or processes acting on behalf of users, for the performance of specified tasks.
+The system shall provide the ability for authorized administrators to assign restrictions or privileges to users/groups.
+The system must be able to associate permissions with a user using one or more of the following access controls: 1) user-based (access rights assigned to each user); 2) role-based (users are grouped and access rights assigned to these groups); or 3) context-based (role-based with additional access rights assigned or restricted based on the context of the transaction such as time-of-day, workstation-location, emergency-mode, etc.) 
+The system shall support removal of a user’s privileges without deleting the user from the system.  The purpose of the criteria is to provide the ability to remove a user’s privileges, but maintain a history of the user in the system.
+The system shall allow an authorized administrator to set the inclusion or exclusion of auditable events in SC 02.03 based on organizational policy & operating requirements/limits.
+The system shall support logging to a common audit engine using the schema and transports specified in the Audit Log specification of IHE Audit Trails and Node Authentication (ATNA) Profile.
+The system shall be able to detect security-relevant events that it mediates and generate audit records for them. At a minimum the events shall include those listed in the Appendix Audited Events. Note: The system is only responsible for auditing security events that it mediates. A mediated event is an event that the system has some active role in allowing or causing to happen or has opportunity to detect. The system is not expected to create audit logs entries for security events that it does not mediate.
+The system shall record within each audit record the following information when it is available: (1) date and time of the event; (2) the component of the system (e.g. software component, hardware component) where the event occurred; (3) type of event (including: data description and patient identifier when relevant); (4) subject identity (e.g. user identity); and (5) the outcome (success or failure) of the event.
+The system shall provide authorized administrators with the capability to read all audit information from the audit records in one of the following two ways:  1) The system shall provide the audit records in a manner suitable for the user to interpret the information.  The system shall provide the capability to generate reports based on ranges of system date and time that audit records were collected. 2) The system shall be able to export logs into text format in such a manner as to allow correlation based on time (e.g. UTC synchronization).
+The system shall be able to support time synchronization using NTP/SNTP, and use this synchronized time in all security records of time.
+The system shall have the ability to format for export recorded time stamps using UTC based on ISO 8601.  Example: "1994-11-05T13:15:30-05:00" corresponds to November 5, 1994, 8:15:30 am, US Eastern Standard Time.
+The system shall prohibit all users read access to the audit records, except those users that have been granted explicit read-access.  The system shall protect the stored audit records from unauthorized deletion. The system shall prevent modifications to the audit records. 
+The system shall authenticate the user before any access to Protected Resources (e.g. PHI) is allowed, including when not connected to a network e.g. mobile devices.
+When passwords are used, the system shall support password strength rules that allow for minimum number of characters, and inclusion of alpha-numeric complexity. 
+The system upon detection of inactivity of an interactive session shall prevent further viewing and access to the system by that session by terminating the session, or by initiating a session lock that remains in effect until the user reestablishes access using appropriate identification and authentication procedures. The inactivity timeout shall be configurable.
+The system shall enforce a limit of (configurable) consecutive invalid access attempts by a user. The system shall protect against further, possibly malicious, user authentication attempts using an appropriate mechanism (e.g. locks the account/node until released by an administrator, locks the account/node for a configurable time period, or delays the next login prompt according to a  configurable delay algorithm).
+When passwords are used, the system shall provide an administrative function that resets passwords. 
+When passwords are used, user accounts that have been reset by an administrator shall require the user to change the password at next successful logon.
+The system shall provide only limited feedback information to the user during the authentication.
+The system shall support case-insensitive usernames that contain typeable alpha-numeric characters in support of ISO-646/ECMA-6 (aka US ASCII).
+When passwords are used, the system shall allow an authenticated user to change their password consistent with password strength rules (SC 03.02).
+When passwords are used, the system shall support case-sensitive passwords that contain typeable alpha-numeric characters in support of ISO-646/ECMA-6 (aka US ASCII).
+When passwords are used, the system shall use either standards-based encryption, e.g., 3DES, AES, or standards-based hashing, e.g., SHA1 to store or transport passwords.
+When passwords are used, the system shall prevent the reuse of passwords previously used within a specific (configurable) timeframe (i.e., within the last X days, etc. - e.g. "last 180 days"), or shall prevent the reuse of a certain (configurable) number of the most recently used passwords (e.g. "last 5 passwords").
+The system shall include documentation that describes the patch (hot-fix) handling process the vendor will use for EHR, operating system and underlying tools (e.g. a specific web site for notification of new patches, an approved patch list, special instructions for installation, and post-installation test).
+The system shall include documentation that explains system error or performance messages to users and administrators, with the actions required.
+The system shall include documentation of product capacities (e.g. number of users, number of transactions per second, number of records, network load, etc.) and the baseline representative configurations assumed for these capacities (e.g. number or type of processors, server/workstation configuration and network capacity, etc).
+The system shall include documented procedures for product installation, start-up and/or connection.
+The system shall include documentation of the minimal privileges necessary for each service and protocol necessary to provide EHR functionality and/or serviceability.
+The system shall include documentation available to the customer stating whether or not there are known issues or conflicts with security services  in at least the following service areas:  antivirus, intrusion detection, malware eradication, host-based firewall and the resolution of that conflict (e.g. most  systems should note that full virus scanning should be done outside of peak usage times and should exclude the databases.).
+If the system includes hardware, the system shall include documentation that covers the expected physical environment necessary for proper secure and reliable operation of the system including: electrical, HVAC, sterilization, and work area. 
+The system shall include documentation that itemizes the services (e.g. PHP, web services) and network protocols/ports (e.g. HL-7,  HTTP, FTP)  that are necessary for proper operation and servicing of the system, including justification of the need for that service and protocol. This information may be used by the healthcare facility to properly configure their network defenses (firewalls and routers).
+The system shall include documentation that describes the steps needed to confirm that the system installation was properly completed and that the system is operational.
+The system shall include documentation available to the customer that provides guidelines for configuration and use of the security controls necessary to support secure and reliable operation of the system, including but not limited to: creation, modification, and deactivation of user accounts, management of roles, reset of passwords, configuration of password constraints, and audit logs.
+The software used to install and update the system, independent of the mode or method of conveyance, shall be certified free of malevolent software (“malware”).  Vendor may self-certify compliance with this standard through procedures that make use of commercial malware scanning software.
+The system shall be configurable to prevent corruption or loss of data already accepted into the system in the event of a system failure (e.g. integrating with a UPS, etc.).
+The system shall support protection of confidentiality of all Protected Health Information (PHI) delivered over the Internet or other known open networks via encryption using triple-DES (3DES) or the Advanced Encryption Standard (AES) and an open protocol such as TLS, SSL, IPSec, XML encryptions, or S/MIME or their successors.
+When passwords are used, the system shall not display passwords while being entered.
+For systems that provide access to PHI through a web browser interface (i.e. HTML over HTTP) shall include the capability to encrypt the data communicated over the network via SSL (HTML over HTTPS). Note: Web browser interfaces are often used beyond the perimeter of the protected enterprise network
+The system shall support protection of integrity of all Protected Health Information (PHI) delivered over the Internet or other known open networks via SHA1 hashing and an open protocol such as TLS, SSL, IPSec, XML digital signature, or S/MIME or their successors.
+The system shall support ensuring the authenticity of remote nodes (mutual node authentication) when communicating Protected Health Information (PHI) over the Internet or other known open networks using an open protocol (e.g. TLS, SSL, IPSec, XML sig, S/MIME).
+The system, when storing PHI on any device intended to be portable/removable (e.g. thumb-drives, CD-ROM, PDA, Notebook), shall support use of a standards based encrypted format using triple-DES (3DES), or the Advanced Encryption Standard (AES), or their successors. 
+"The system, prior to access to any PHI, shall display a configurable warning or login banner (e.g. ""The system should only be accessed by authorized users"").
+In the event that a system does not support pre-login capabilities, the system shall display the banner immediately
+following authorization."
+The system shall be able to generate a backup copy of the application data, security credentials, and log/audit files.
+The system restore functionality shall result in a fully operational and secure state.  This state shall include the restoration of the application data, security credentials, and log/audit files to their previous state.
+If the system claims to be available 24x7 then the system shall have ability to run a backup concurrently with the operation of the application. 

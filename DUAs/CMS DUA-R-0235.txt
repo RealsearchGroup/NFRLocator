@@ -1,0 +1,121 @@
+
+Form CMS-R-0235 (06/10) 
+DEPARTMENT OF HEALTH AND HUMAN SERVICES CENTERS FOR MEDICARE & MEDICAID SERVICES 
+
+Form Approved OMB No. 0938-0734 
+DATA USE AGREEMENT 
+DUA # 
+
+
+
+(AGREEMENT FOR USE OF CENTERS FOR MEDICARE & MEDICAID SERVICES (CMS)   DATA CONTAINING INDIVIDUAL IDENTIFIERS)  
+CMS agrees to provide the User with data that reside in a CMS Privacy Act System of Records as identified in this  Agreement. In exchange, the User agrees to pay any applicable fees; the User agrees to use the data only for purposes  that support the User’s study, research or project referenced in this Agreement, which has been determined by CMS to provide assistance to CMS in monitoring, managing and improving the Medicare and Medicaid programs or the services provided to beneficiaries; and the User agrees to ensure the integrity, security, and confidentiality of the data by complying  with the terms of this Agreement and applicable law, including the Privacy Act and the Health Insurance Portability and Accountability Act. In order to secure data that reside in a CMS Privacy Act System of Records; in order to ensure the  integrity, security, and confidentiality of information maintained by the CMS; and to permit appropriate disclosure and use of such data as permitted by law, CMS and (Requestor) agreement to comply with the following specific paragraphs. 
+U.S. Department of Health and Human Services (HHS), and (Requestor),  
+ 1.  This Agreement is by and between the Centers for Medicare & Medicaid Services (CMS), a component of the  hereinafter termed “User.”  
+ 2.  This Agreement addresses the conditions under which CMS will disclose and the User will obtain, use, reuse  and disclose the CMS data file(s) specified in section 5 and/or any derivative file(s) that contain direct individual identifiers or elements that can be used in concert with other information to identify individuals. This Agreement supersedes any and all agreements between the parties with respect to the use of data from the files specified in section 5 and preempts and overrides any instructions, directions, agreements, or other understanding in or  pertaining to any grant award or other prior communication from the Department of Health and Human Services or any of its components with respect to the data specified herein. Further, the terms of this Agreement can be changed only by a written modification to this Agreement or by the parties adopting a new agreement. The parties agree further that instructions or interpretations issued to the User concerning this Agreement or the data specified  herein, shall not be valid unless issued in writing by the CMS point-of-contact or the CMS signatory to this Agreement shown in section 20. 
+ 3.  The parties mutually agree that CMS retains all ownership rights to the data file(s) referred to in this Agreement, and that the User does not obtain any right, title, or interest in any of the data furnished by CMS. 
+ 4. The User represents, and in furnishing the data file(s) specified in section 5 CMS relies upon such representation, that such data file(s) will be used solely for the following purpose(s). 
+Name of Study/Project 
+CMS Contract No. (If applicable) 
+
+    The User represents further that the facts and statements made in any study or research protocol or project plan submitted to CMS for each purpose are complete and accurate. Further, the User represents that said study  protocol(s) or project plans, that have been approved by CMS or other appropriate entity as CMS may determine,  represent the total use(s) to which the data file(s) specified in section 5 will be put. 
+  The User agrees not to disclose, use or reuse the data covered by this agreement except as specified in an  Attachment to this Agreement or except as CMS shall authorize in writing or as otherwise required by law, sell,  rent, lease, loan, or otherwise grant access to the data covered by this Agreement. The User affirms that the  requested data is the minimum necessary to achieve the purposes stated in this section. The User agrees that,  within the User organization and the organizations of its agents, access to the data covered by this Agreement  shall be limited to the minimum amount of data and minimum number of individuals necessary to achieve the purpose stated in this section (i.e., individual’s access to the data will be on a need-to-know basis). 
+
+ 5.  The following CMS data file(s) is/are covered under this Agreement. 
+    File Years(s) System of Record 
+  
+ 6.  The parties mutually agree that the aforesaid files(s) (and/or any derivative file(s)), including those files that 
+ directly identify individuals or that directly identify bidding firms and/or such firms’ proprietary, confidential 
+individuals, may be retained by the User until          , hereinafter known as the “Retention Date.”  The User agrees to notify CMS within 30 days of the completion of the purpose specified in section 4 if the  purpose is completed before the aforementioned retention date. Upon such notice or retention date, whichever  occurs sooner, the User agrees to destroy such data. The User agrees to destroy and send written certification of  the destruction of the files to CMS within 30 days. The User agrees not to retain CMS files or any parts thereof, or specific bidding information, and those files that can be used in concert with other information to identify after the aforementioned file(s) are destroyed unless the appropriate Systems Manager or the person designated in section 20 of this Agreement grants written authorization. The User acknowledges that the date is not contingent  upon action by CMS. 
+   The Agreement may be terminated by either party at any time for any reason upon 30 days written notice. Upon  notice of termination by User, CMS will cease releasing data from the file(s) to the User under this Agreement  and will notify the User to destroy such data file(s). Sections 3, 4, 6, 8, 9, 10, 11, 13, 14 and 15 shall survive  termination of this Agreement. 
+ 7.  The User agrees to establish appropriate administrative, technical, and physical safeguards to protect the  confidentiality of the data and to prevent unauthorized use or access to it.The safeguards shall provide a level  and scope of security that is not less than the level and scope of security requirements established by the Office  of Management and Budget (OMB) in OMB Circular No. A-130, Appendix III--Security of Federal Automated  Information Systems (http://www.whitehouse.gov/omb/circulars/a130/a130.html) as well as Federal  Information Processing Standard 200 entitled “Minimum Security Requirements for Federal Information and  Information Systems” (http://csrc.nist.gov/publications/fips/fips200/FIPS-200-final-march.pdf); and, Special Publication 800-53 “Recommended Security Controls for Federal Information Systems” (http://csrc.nist.gov/ publications/nistpubs/800-53-Rev2/sp800-53-rev2-final.pdf). The User acknowledges that the use of unsecured  telecommunications, including the Internet, to transmit individually identifiable, bidder identifiable or deducible information derived from the file(s) specified in section 5 is prohibited. Further, the User agrees that the data must  not be physically moved, transmitted or disclosed in any way from or by the site indicated in section 17 without  written approval from CMS unless such movement, transmission or disclosure is required by a law. 
+ 8.  The User agrees to grant access to the data to the authorized representatives of CMS or DHHS Office of the  Inspector General at the site indicated in section 17 for the purpose of inspecting to confirm compliance with  the terms of this agreement. 
+Form CMS-R-0235 (06/10) 
+ 9.  The User agrees not to disclose direct findings, listings, or information derived from the file(s) specified in section 5, with or without direct identifiers, if such findings, listings, or information can, by themselves or in combination with other data, be used to deduce an individual’s identity. Examples of such data elements include, but are not limited to geographic location, age if > 89, sex, diagnosis and procedure, admission/discharge date(s), or date of death.  
+    The User agrees that any use of CMS data in the creation of any document (manuscript, table, chart, study, report,  etc.) concerning the purpose specified in section 4 (regardless of whether the report or other writing expressly  refers to such purpose, to CMS, or to the files specified in section 5 or any data derived from such files) must  adhere to CMS’ current cell size suppression policy. This policy stipulates that no cell (e.g. admittances, discharges, patients, services) 10 or less may be displayed. Also, no use of percentages or other mathematical formulas may be used if they result in the display of a cell 10 or less. By signing this Agreement you hereby agree  to abide by these rules and, therefore, will not be required to submit any written documents for CMS review. If you are unsure if you meet the above criteria, you may submit your written products for CMS review. CMS agrees to make a determination about approval and to notify the user within 4 to 6 weeks after receipt of findings. CMS  may withhold approval for publication only if it determines that the format in which data are presented may result in identification of individual beneficiaries. 
+ 10.  The User agrees that, absent express written authorization from the appropriate System Manager or the person  designated in section 20 of this Agreement to do so, the User shall not attempt to link records included in the  file(s) specified in section 5 to any other individually identifiable source of information. This includes attempts to  link the data to other CMS data file(s). A protocol that includes the linkage of specific files that has been approved in accordance with section 4 constitutes express authorization from CMS to link files as described in the protocol.  
+ 11.  The User understands and agrees that they may not reuse original or derivative data file(s) without prior written  approval from the appropriate System Manager or the person designated in section 20  of this Agreement. 
+ 12.  The parties mutually agree that the following specified Attachments are part of this Agreement: 
+
+ 13.  The User agrees that in the event CMS determines or has a reasonable belief that the User has made or may have  made a use, reuse or disclosure of the aforesaid file(s) that is not authorized by this Agreement or another written  authorization from the appropriate System Manager or the person designated in section 20 of this Agreement,  CMS, at its sole discretion, may require the User to: (a) promptly investigate and report to CMS the User’s  determinations regarding any alleged or actual unauthorized use, reuse or disclosure, (b) promptly resolve any problems identified by the investigation; (c) if requested by CMS, submit a formal response to an allegation of unauthorized  use, reuse or disclosure; (d) if requested by CMS, submit a corrective action plan with steps designed to prevent  any future unauthorized uses, reuses or disclosures; and (e) if requested by CMS, return data files to CMS or  destroy the data files it received from CMS under this agreement. The User understands that as a result of CMS’s  determination or reasonable belief that unauthorized uses, reuses or disclosures have taken place, CMS may refuse  to release further CMS data to the User for a period of time to be determined by CMS. 
+    The User agrees to report any breach of personally identifiable information (PII) from the CMS data file(s), loss of  these data or disclosure to any unauthorized persons to the CMS Action Desk by telephone at (410) 786-2580 or  by e-mail notification at cms_it_service_desk@cms.hhs.gov within one hour and to cooperate fully in the federal security incident process. While CMS retains all ownership rights to the data file(s), as outlined above, the User  shall bear the cost and liability for any breaches of PII from the data file(s) while they are entrusted to the User.  Furthermore, if CMS determines that the risk of harm requires notification of affected individual persons of the  security breach and/or other remedies, the User agrees to carry out these remedies without cost to CMS. 
+Form CMS-R-0235 (06/10) 
+ 14.  The User hereby acknowledges that criminal penalties under §1106(a) of the Social Security Act (42 U.S.C.  § 1306(a)), including a fine not exceeding $10,000 or imprisonment not exceeding 5 years, or both, may apply to  disclosures of information that are covered by § 1106 and that are not authorized by regulation or by Federal law.  The User further acknowledges that criminal penalties under the Privacy Act (5 U.S.C. § 552a(i) (3)) may apply if  it is determined that the Requestor or Custodian, or any individual employed or affiliated therewith, knowingly and willfully obtained the file(s) under false pretenses. Any person found to have violated sec. (i)(3) of the Privacy Act  shall be guilty of a misdemeanor and fined not more than $5,000. Finally, the User acknowledges that criminal  penalties may be imposed under 18 U.S.C. § 641 if it is determined that the User, or any individual employed or  affiliated therewith, has taken or converted to his own use data file(s), or received the file(s) knowing that they were stolen or converted. Under such circumstances, they shall be fined under Title 18 or imprisoned not more  than 10 years, or both; but if the value of such property does not exceed the sum of $1,000, they shall be fined  under Title 18 or imprisoned not more than 1 year, or both. 
+ 15.  By signing this Agreement, the User agrees to abide by all provisions set out in this Agreement and acknowledges having received notice of potential criminal or administrative penalties for violation of the terms of the Agreement. 
+ 16.  On behalf of the User the undersigned individual hereby attests that he or she is authorized to legally bind the User to the terms this Agreement and agrees to all the terms specified herein. 
+ 
+ Name and Title of User (typed or printed) 
+
+Company/Organization 
+
+Street Address 
+
+City 
+ State  
+ ZIP Code 
+ 
+Office Telephone (Include Area Code) 
+ E-Mail Address (If applicable) 
+ 
+Signature  Date 
+ 
+
+ 17.  The parties mutually agree that the following named individual is designated as Custodian of the file(s) on behalf  of the User and will be the person responsible for the observance of all conditions of use and for establishment and  maintenance of security arrangements as specified in this Agreement to prevent unauthorized use. The User agrees  to notify CMS within fifteen (15) days of any change of custodianship. The parties mutually agree that CMS may disapprove the appointment of a custodian or may require the appointment of a new custodian at any time. 
+    The Custodian hereby acknowledges his/her appointment as Custodian of the aforesaid file(s) on behalf of the  User, and agrees to comply with all of the provisions of this Agreement on behalf of the User. 
+Name of Custodian (typed or printed) 
+
+Company/Organization 
+
+Street Address 
+
+City 
+ State  
+ ZIP Code 
+ 
+Office Telephone (Include Area Code) 
+ E-Mail Address (If applicable) 
+ 
+Signature  Date 
+ 
+
+Form CMS-R-0235 (06/10) 
+ 18.  The disclosure provision(s) that allows the discretionary release of CMS data for the purpose(s) stated in section 4  follow(s). (To be completed by CMS staff.) _________________________________________ 
+
+ 19.  On behalf of __________________________________ the undersigned individual hereby acknowledges that  the aforesaid Federal agency sponsors or otherwise supports the User’s request for and use of CMS data, agrees  to support CMS in ensuring that the User maintains and uses CMS’s data in accordance with the terms of this Agreement, and agrees further to make no statement to the User concerning the interpretation of the terms of this Agreement and to refer all questions of such interpretation or compliance with the terms of this Agreement to the 
+CMS official named in section 20 (or to his or her successor). 
+Typed or Printed Name 
+ Title of Federal Representative 
+ 
+Signature  Date 
+ 
+Office Telephone (Include Area Code) 
+ E-Mail Address (If applicable) 
+ 
+
+ 20.  The parties mutually agree that the following named individual will be designated as point-of-contact for the  Agreement on behalf of CMS. 
+    On behalf of CMS the undersigned individual hereby attests that he or she is authorized to enter into this Agreement and agrees to all the terms specified herein. 
+Name of CMS Representative (typed or printed) 
+
+Title/Component 
+
+Street Address 
+ Mail Stop 
+ 
+City 
+ State 
+ ZIP Code 
+ 
+Office Telephone (Include Area Code) 
+ E-Mail Address (If applicable) 
+ 
+A. Signature of CMS Representative  Date 
+ 
+B. Concur/Nonconcur — Signature of CMS System Manager or Business Owner  Date 
+ 
+Concur/Nonconcur — Signature of CMS System Manager or Business Owner  Date 
+ 
+Concur/Nonconcur — Signature of CMS System Manager or Business Owner  Date 
+ 
+
+According to the Paperwork Reduction Act of 1995, no persons are required to respond to a collection of information unless it displays a valid OMB control number. The valid OMB control number for this information collection is 0938-0734. The time required to complete this information collection is estimated to average 30 minutes per response, including the time to review instructions, search existing data resources, gather the data needed, and complete and review the information collection. If you have any comments concerning the accuracy of the time estimate(s) or suggestions for improving this form, please write to: CMS, 7500 Security Boulevard, Attn: Reports Clearance Officer, Baltimore, Maryland 21244-1850. 
+

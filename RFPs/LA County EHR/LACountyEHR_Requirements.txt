@@ -1,0 +1,1240 @@
+
+Requirement
+
+
+The proposed EHR System is an overall integrated solution, including the following components: Scheduling, Registration, Order Entry, Results Viewing, Clinical Documentation (physician and nursing), Computerized Physician Order Entry (CPOE), Radiology, Lab, Pharmacy, OR, ER, ICU, HIM Utilization review, and utilization management.
+The proposed EHR System is integrated across the Inpatient and Outpatient continuum of care through workflows, document types and result displays.  If a patient has several Outpatient visits and is admitted as an Inpatient, care teams must be able to access the patient’s clinical history.  Conversely, if an Inpatient is discharged, Ambulatory teams must be able to access the patient’s clinical, demographic history. 
+The system has the capability to alert physicians during order entry or clinical documentation to identify adverse conditions or to notify physician of actions that need to be taken as part of a requirement as a designed workflow (e.g., co-sign orders for a resident). 
+The system has capability to identify the current physical location of any patient during their stay. 
+The system has capability to support a purge cycle to allow database maintenance.  
+The system has the capability to have an automated recovery.    
+The system has the capability for a single point to view complete medical record for both inpatient and outpatient health records. 
+The system supports the workflow solution in a teaching hospital for interdisciplinary documentation and allows for multiple e-signatures / authentication across disciplines (i.e., Co-signature of orders / documentation for Resident physicians by Attending physicians)
+The system has capability to support industry standards for Security and Reliability. 
+The system has capability of parameter-specific identification of patient problems and goals. 
+The system has capability to have a patient education module that addresses the needs of the LA County population (e.g. multilingual, ADA compliant, etc.).
+The system has capability to have voice recognition.
+The system has capability to capture a picture of the patient at the point of service. 
+The system has capability to generate alerts if clinical documentation or orders are altered after initial sign-off by an authorized physician. 
+The system has capability to capture the date and time the record was entered into the system or edited. 
+The system has capability to capture the user's information, both internal and external, who created and/or edited the record. 
+The system has capability to perform nursing assessments.
+The system has capability to perform medical assessments. 
+The system has capability to automatically populate demographic fields.
+The system has capability to show the patient's medication history.
+The system has capability to manage, track and report user access to a specific patient's data.
+The system has capability to comply with HIPAA Standards for Electronic Transactions.
+The system has capability to integrate the diagnostics from other systems (e.g., fetal monitoring strips, OB strips, etc.)
+The system has capability of importing and export patient demographic data via HL7 interface from an existing Practice Management System, Patient Registration System, or any such system used for patient registration and/or scheduling. 
+The system has capability to import, create, review, and edit non-clinical information from the patient record.  
+The system has capability to use visual cues to highlight abnormal results. 
+The system has capability to accommodate multiple levels of role-based user access that restrict access to the appropriate role. 
+The system has capability to display bed census by nurse station, and Provider. 
+The system has capability to support electronic signatures and other identifiers for authorization and consent forms.  Please include in your response how the system will prompt for the signature as well as where/how it is used for both internal and external user (e.g., patients, staff, providers, witnesses)
+The system has capability to support the creation of patient identifying bar code on face sheets, patient labels and identification cards with pictures.   
+The system has capability to provide the creation of user defined prompts, alerts and fields to capture information. 
+The system has capability to identify clinicians for the provision of care.
+The system has capability to display age with no greater specificity than days when time of birth is not recorded.
+The system has capability to use age in hours of life when time of birth is recorded including through the 7th day of life.
+The system has capability to allow the recording of an infant’s gestational age including age at the time of birth.   
+The system has capability to use pediatric-specific reference ranges for vital signs.  (e.g., use of metric and US standard units of measure, such as pounds and kilograms)  
+The system has capability to document a patient assent for situations where the patient is legally unable to consent. 
+The system has capability to document the name of one or more witness(es) to the patient assent.
+The system has capability to document the names and addresses for patient’s personal representatives with contact information for each to include one or more telephone numbers and addresses.
+The system has capability to document the date, time and lack of assent or consent in emergency treatment when a legal guardian is not available or present.
+The system has capability for tracking patient ID changes and merges.
+The system has capability to allow multiple users to enter data for a single encounter simultaneously.
+The system has capability to make changes to complete encounters.
+The system has capability to link consult encounters with consult orders. 
+The system has capability to have technical modules that collect medical history. 
+The system has capability to automatically check for and warn of duplicate orders, within a user-defined period of time. 
+The system has capability to electronically provide patient reports on demand following and allow for hiding private information to comply with HIPAA Privacy and Security requirements. Format of reports should include the following: fax, mobile device, pager, electronic storage devices (e.g. flash drive, CDs).
+The system has capability to send a scheduling confirmation to the requesting system. 
+The system has capability to request a scheduling confirmation. 
+The system has capability to designate a primary clinician.
+The system has capability to have rules-based chemotherapy management component.
+The system has capability to display standard orders sets based on diagnosis (e.g. diabetes), including advising for required lab work per quality indicators (A1c, Lipid panel).
+The system has capability to import patient health history data, including obstetrical history data, from an existing system (e.g., eko ,etc.).
+The system has capability to support the capture, graphic display of, and plotting of "Growth Chart" information.
+The system has capability to provide a mechanism to capture history of current illness.
+The system has capability to capture, track and print referral information including the process to accept a referral and to notify the referring source of the acceptance.
+The system has capability to capture, track and print consultations. 
+The system has capability to support remote system monitoring technology, such as network access control, performance monitoring, 
+The system has capability to access subspecialty attending on-call lists when transferring and receiving patients between hospitals.
+The system has capability to display results in a customizable, intuitive, flexible format.  
+The system has the capability to support real-time or retrospective trending and analysis. 
+The system has the capability of charting on-screen view of patient process toward meeting clinical goals.  
+The system has the capability to maintain a directory which identifies the physician by multiple unique identifiers.
+The system has the capability to allow vital sign/growth data to be normed against either/both male/female gender with transparency to the user regarding which default is being applied.
+The system has the capability to notify user of ED visits.
+The system has the capability to post a note from the web signoff.
+The system has the ability to plot patient results and trends in graph form.
+The system has the ability to upload historical information from both internal and external sources.
+The system has the ability to track and record infection control data and reporting (statistic and/or patient specific).
+The system has the ability to alert staff of patients with highly sensitive Infection Control alerts (e.g., MRSA).
+Tracking
+The system has an Enterprise Registration Module with automated workflow including the processes of registration, admitting, transfers, and discharges in any clinical domain, including hospitals, physician offices, clinics, Ambulatory settings, and home health agencies.
+The system has the capability to integrate and create a unique Master Person Identifier (MPI) that becomes the basis for coordinating the person‘s movement across an integrated or disparate health system.
+The system has the capability to accommodate provider and researcher account types.
+The system has a scheduling/registration product that can add a Newborn scenario including during a downtime scenario.
+The system has a scheduling/registration product that can Add/Modify scenarios (e.g., Inpatient, Outpatient, ER, Quick - Registration, Pre-Admit, series account). 
+"The system has the ability to Add/Modify person scenarios including:
+1) Bed Swap
+2) Observation beds
+3) Change of service
+4) Cancel Encounter
+5) Cancel Encounter Discharge
+6) Cancel Encounter Transfer
+7) Cancel Leave of Absence
+8) Cancel Pending Encounter Discharge
+9) Cancel Pending Encounter Transfer
+10) Complete Encounter Discharge
+11) Complete Encounter Transfer
+12) Discharge Encounter
+13) Leave of Absence
+"
+The system has the capability to use rules associated with required prompts that can either be used as warning to the usre or prevent moving to a next step until a specific action has been taken.
+The system has the capability to generate differencing registration reports.
+The system has the capability to generate bar code labels on laser printers for patient identification.
+The system supports pre-built or easily designed Standard Documents for Armband labels, Sheet labels (Admission label), Face sheets, Admit Notice, Discharge Notice, Transfer Notice, Cancel Discharge Notice, MSP Document, Document Routing printed on laser printer.
+The system generates work lists (queues) including: Medicare Secondary Payer (MSP) Follow-up; Pre-Registration; Dirty Beds; Discharge Follow-up; ER Quick Registration Follow-up;  Insurance Verification; Past Due Arrival; Pending Arrival;  Leave of Absence View; Unauthenticated Employer;  Miscellaneous Insurance; Interpreter Required; Privacy Practice; Accommodation Mismatch; Nurse Unit Inquiry; Name Inquiry.
+The system has the capability to register a large number of patients who arrive at the ER (QuickReg) as a result of a disaster involving casualties (e.g., train accident, earthquake, etc.). 
+The system allows to search for and potentially match QuickReg records with existing patient records in the system.
+The system assists matching records created in the quick registration process with existing record for the same patient.
+The system allows authorized users to merge matching records
+The system supports patient locator functionality such as viewing of patients and their location for information or help desk.  Includes the ability to customize so that only those patient classes a facility desires will show up on the locator; also includes the capability to indicate which patients want to opt out of being listed in the patient directory.
+The system supports historical patient lookup functionality such as  viewing a patient‘s locations (e.g., where they have been transferred to and from; view of all patients who have historically been in a given location during a time period).
+The system supports bed board functionality such as providing a view of beds including their status and occupancy information at either the nurse unit level or for an entire site.
+The system supports the Bed Board application of transfer and discharge patients, as well as to update the status of a bed.
+The system has the capability to allow multiple addresses, permanent and temporary. 
+The system has the capability to import, create, review, edit, and export  patient demographic information.
+The system has the capability to conduct eligibility checking and documenting for all commercial health plans and Medicaid.
+The system has the capability to print out medical summary.
+The system has the capability to access insurance information from within the system; and determines proper billing codes including administration codes (i.e., vaccine, shots, etc.).
+The system has the capability to provide a Worklist component to handle list of incoming scheduling requests, including urgency of appointment.
+The system has the capability to send transportation requests.
+The system has the capability to capture and display separate physician names for attending, admitting, consulting, referral, and primary care physician at the visit level.
+The system has the capability to capture and display comments in the form of comment fields (free form text and pre-defined values/notes).
+The system has the capability for notification of IP Admissions.
+
+The system has the capability to optimize the scheduling of persons, staff, and other resources, reducing costs and dramatically increasing efficiency in this key area of access services.
+The system manages multiple resources or other appointment books displayed together.
+The system supports scheduling for Physical Therapy, Occupational Therapy, Rehabilitation Therapy areas and all Radiology modalities.
+The system supports scheduling for the appointment types.
+The system supports scheduling for multiple slot types.
+The system has the capability to support default schedules utilizing more than one slot type that is used to predefine the use of time for a resource.  The system will need the support capability of up to and beyond 5000 default schedules.
+The system allows scheduling templates in the future.
+System functionality exists that allows the capture of additional information regarding requested appointment type, such as reason for exam, ICD-9/ICD-10 codes, referring physician, etc.
+The scheduling/registration Module has the capability to flex the details captured for a selected appointment type. There is no limitation to the number of accepted formats. 
+Resource roles are logical groupings of resources used primarily to assist with database maintenance.   The proposed EHR System is able to manage the resource roles necessary to support the environment similar to LAC DHS. 
+Resource Lists is functionality to define a list of resources that are valid to be scheduled to a certain appointment type. The proposed EHR System is able to manage the resource lists necessary to support the environment similar to LAC DHS.
+The system has the capability to upload historical schedules.
+The system has the functionality to define a list of resources that are valid to be scheduled to a certain appointment type.  This will need to include multiple resource lists.
+The system has functionality to indicate if multiple appointments interact when booked too closely together.  
+The system addresses Preparations, Guidelines, and Post Appointment Instructions.
+The system has the capability to utilize Action Comments; Booking Notes; Scheduling Comments; Warning Overrides; Resource Comments; Encounter Comments; Person Comments.  
+The system utilizes the capability to capture referral info at the time the appointment is being made and the ability to display the information when viewing details of the appointment. 
+The system utilizes the capability to capture (at the time of patient discharge) diagnosis codes, procedure codes, caregivers, responsible physician, disposition, and any charges.
+The system integrates the use of registration conversations and conversation flexing logic for Radiology Integration including capability to schedule radiology patient appointments: Surgical Management Integration including capability to assign surgical case numbers; evaluate historical and recent procedure durations; apply preference cards to the scheduling process; perform dynamic and block scheduling.
+The system has functionality for Enterprise Eligibility/Enterprise Benefits Management Integration which includes capability to verify insurance eligibility information during the scheduling process and capability to check for the medical necessity of procedures based on diagnosis combinations.
+The system addresses Orders Integration such as Scheduling to orders.
+The system has the capability to link orderable to scheduling appointments, which can create the order in future status until appointment check-in;  Orders to Scheduling:  The system has the capability to support Radiology procedures that need to be scheduled and are ordered in Electronic Health Record product. 
+The system has functionality for scheduling request queues that prompt user to make registration appointment if any outpatient appointment has expiration prior to next appointment visit. 
+The system has the capability to by-pass need for financial assessment appointment based on patient referral type. 
+The system has functionality/capability at Patient Arrival that would restrict patient check-in from occurring before the date of the appointment. 
+The system has functionality for “View only access/Full Access” including capability to restrict scheduling based upon location. 
+The system has the capability and workflow to Schedule Multiple Appointments, Schedule a Recurring Appointment, Add a Patient while entering appointment information, Reschedule an Appointment, Cancel an Appointment, Check In an Appointment, Check Out an Appointment, Record a No Show, and View the History of an Appointment.
+The system has the ability to schedule a referral patient (non-registered) and collect associated documentation for the referral.
+The system has a process for archiving and/or purging of data.
+
+The system has the capability to automate the following processes for Nursing or Ancillary Departments:   Admission Process;  Ongoing Assessment Process;  Intake and Output;  Routine Care and Functional activities;  Non Scheduled Documentation such as Ad Hoc Charting;  Shift Change Report;  Patient Assignment;  Results Viewing.
+The system has the functionality to facilitate the need to automate the intake and output flow sheet calculations along with fluid balance in a graphic view.
+The system has functionality that addresses Results Viewing and facilitates the need to automate the custom views for clinical modalities such as Nursing, Physician, Administration, and  Ancillary Departments.
+The system has the functionality to address Shift Assignment:  The product will need to include the functionality to automate the Assignment of patients to a group of care givers or an individual care giver.   Provide a high level overview of key information, notification source, for important interval data and a launch pad to vital and related applications.
+"The system has the functionality that addresses Task Lists:
+  • Product functionality to facilitate the need to automate the Nursing and 
+    departmental documentation tasks including single and multi-patient task lists utilized to support Nursing and departmental processing.
+  • Functionality to include a unique task list for each defined position.
+  • Task list functionality to support forms documentation along with 
+    complete/incomplete charting."
+The system has the capability to automate the following reports:  Active Order Report; All Task Report; Overdue Task Report; Diet Report; Intake and Output Summary; Report that can flex to utilize 8 and 12 hour versions for Shift Assignment Reporting. Also functionality for Charge Services/Documentation Management to support at the capture of charges based upon the completion of tasks.
+The system has the capability to present to a user condition specific care plans or guidelines based on vital signs outside of a specific range.
+The system has the capability to specify the level of authorization to make decisions on behalf of the patient and to designate primary and secondary caregivers.
+The system has the capability to produce adverse-event reporting and documentation.
+The system has the capability to inform the clinician of recommended or required immunizations based on patient risk factors and other criteria as identified in widely accepted immunization schedules and recommendations.
+The system has the capability to record the date and time (if known) of vaccine reaction or allergic occurrence.
+The system has the capability to calculate Body Surface Area and support (BSA)-based dosing when recommended for a medication.
+The system has the capability to resolve dosing based on weight or BSA to a finite dose. 
+The system has the capability to use a weight-based or BSA-based dose that is entered ad hoc and subsequently be able to resolve such entered doses to finite doses.
+The system has the capability to document Admission History using  documentation templates.  The EHR System needs to provide the functionality to carry forward previous visit history into the current visit template.
+The system has the capability to customize template fields to be tied to standard nomenclature. 
+The system has the capability for front-end speech recognition integrated into documentation tools. 
+The system has the capability to integrate images directly into documentation.
+The system has the capability to select diagnoses, medications, and procedures from pre-defined lists.
+The system has the capability to quickly update care plans.  
+The system has the capability to have supervisory review integrated into documentation workflow. 
+The system has the capability to track ancillary documentation.
+The system has the capability to have template-driven charting.
+The system has the capability to provide documentation templates to support Anti-coagulation/Coumadin Management. 
+The system has the capability to provide documentation templates to support Psychiatry, Orthopedics, Oncology, Pre-Operative Assessment, History and Physical, Physical Exam, Operative Note, Labor and Delivery, Cardiac Resuscitation, Dental Note, Ophthalmology Note, Family Planning, Urology Record, Sickle Cell Record, Neurology Note.  
+The system has the capability to support resident/attending signoff relationships and attestation. (Co-signature workflow)
+The system has the capability to provide messaging system for all clinical results.  This would include examples like placing a record of result review and acknowledgement in patient's chart.
+The system has the capability to automatically shift results message streams to new caregiver for sign out purposes. 
+The system has the capability to Integrate with pager, cell phone, and email technologies to provide critical results reporting in real time.
+The system has the capability for an escalation process for critical results if not acknowledged in a specified time frame. 
+The system has the capability to track active and inactive patient problems.
+The system has the capability for automatic problem generation based on diagnoses in medical record.  
+The system has the capability to integrate CPT & ICD-9/10 Codes.  Solution- provided aids for completing the template based on entry.
+The system has the capability to print clear summary for patients on discharge.  
+The system has the capability for consolidated vital signs management across all service areas.
+The system has the capability to provide patient acuity classification score and other scoring tools (e.g., pain scores). 
+The system has the capability to have field (entry) level edits and validation checking capability. 
+The system has the capability to make nursing assignments.
+The system has the capability to flag the nurse for missing or late documentation. 
+The system has the capability to allow multiple users to view and update  the same record simultaneously.
+The system has the capability to  provide knowledge references.
+The system has the capability to have patient education library.
+The system has the capability to customize handouts from print or email.
+The system has the capability to have immunization registry function.
+The system has the capability to capture & store risk factors for each new patient.
+The system has the capability to capture & store social history elements. 
+The system has the capability to prompt clinicians to provide appropriate patient counseling, e.g., counsel patients on behavior, following treatment plans and taking medications.
+The system has the capability to prompt the provider to inform the parent/child that their immunization information will be shared with the registry and Integrated Decision Support.
+The system has the capability to record progress notes utilizing a combination of system default, provider customizable, and provider-defined templates.
+The system has the capability to automatically update other sections of the record with data entered in the progress note.
+The system has the capability to enter performed and planned procedures on the progress note template after an encounter. 
+The system has the capability to link the progress note to a diagnosis or a problem number 
+The system has the capability to automatically capture the electronic signature and title of the person entering data and date/time stamp each transaction.
+The system has the capability to view progress notes in chronological or reverse chronological order by encounter date in relation to the active care plan.
+The system has the capability that applies security controls to progress notes to ensure that date cannot be deleted or altered except within the current session and by an authorized user.
+The system has the capability to include a medical terminology dictionary within the progress notes data entry module.
+The system has the capability to include a spell checker within the progress notes data entry module.
+The system has the capability to support the automatic collection of data elements defined by the associated clinical practice guideline or order.
+The system has the capability to provide a problem status for each shown problem.
+The system has the capability to separate active from inactive problems.
+The system has the capability that allows clinicians to identify and record new patient problems as well as the current status or existing problems.
+The system has the capability to update the active problem list from relevant data in the progress note.
+The system has the capability to create, review, and edit information regarding a change on the status of a problem to include, but not be limited to, the date the change was first noticed or diagnosed.
+The system has the capability to automatically update the diagnosis/problem lists with the capture of each new piece of patient data in any module.
+The system has the capability to automatically link problems with order and results.
+The system has the capability to automatically update the problem summary using new clinical information.
+The system has the capability of allowing the display of past interventions for review at the option of the provider.
+The system has the capability of allowing the display of past hospitalizations, diagnostic procedures, & past therapies for review at the option of the provider.
+The system has the capability to automatically update the problem summary lists upon detecting changes made to mutli-disciplinary guidelines. 
+The system has the capability allow users overriding all or parts of a system provided guideline or protocol and prompt the user to indicate a reason for the override.  
+The system has the capability to import/create information about the desired single or multi-disciplinary long/short term goals and objectives that will be accompanied by the care plan.
+The system has the capability to review, edit information about the proposed set of single or multi-disciplinary care plan options that are based upon expected outcomes.
+The system has the capability to use existing documentation templates. 
+The system has the capability to integrate all patient forms with electronic capture of the patient's signature. 
+The system has the capability to view assigned patients, utilization trends, on-call schedules on a dashboard.
+The system has the capability for users to create their own preferred display formats.
+The system has the capability to display & print care plan by patient, nurse, physician, treatment type.
+The system has a solution for nursing and physician shift handoff that integrates documentation, results, and progress notes along with workflow sign off to efficiently and safely hand off patients to the next shift.
+The system has the capability for communication that will identify clinical teams and/or individual physicians on the team (Residents and/or Attending) so that if needed, the team/individual physician can be contacted by a covering physician.    
+The system has the capability to auto translate based on documentation entered, prompt for additional supporting documentation and prompt for pertinent documentation (e.g., present on admission for optimal Medical Records coding).
+The system has the capability to provide computer aided coding for staff as forms and templates are completed.
+The system has the capability to accept scanned documents and convert to a template to be used by other medical professionals.
+The system has the capability for user-defined patient flow sheets.
+The system has the capability to download branching logic charting methods. 
+The system has the capability to provide a detailed outcome reporting to analyze and determine best practice. 
+
+The system has the capacity of an 'enterprise clinical viewer' for viewing clinical results (e.g., pediatric growth charts, visit lists and others).
+The system has the capability for clinical views of order sets, i.e., by care venues (Inpatient and Ambulatory), specialty or treatment plan.
+The system has the capability to view patient charts including result flowsheets, clinical notes, patient information and demographics, problem lists, pediatric growth charts, visit lists.
+The system has the capability to allow the creation of nursing orders, physician orders and order sets.
+The system has a process flow for Laboratory orders; Radiology orders; Therapy orders and pharmacy orders. 
+The system has the capability to address duplicate order checking.
+The system has the capability to provide order status updates during the processing of an order.
+The system has the capability to handle order communication within the integrated modules (Rad/Lab/Rx) along with communication to any potential interfaced modules.
+The system has the capability to have ‘write rules’ against order entry conditions by users across the unified database, including lab, Radiology, Angio, Respiratory, etc.
+The system has the capability to have exam protocols. 
+The system has the capability to automatically notify caregivers if critical value is detected and document who acknowledged the receipt of notification, as well as the date/time.
+The system has the capability to create, fill-in & e-fax customized order forms. 
+The system has the capability to accept orders from multiple locations. 
+The system has the capability to accept, override, and cancel an order.
+The system has the capability to detect duplicate orders issuing visual and auditory warnings.
+The system has the capability to download the treatment clock. 
+The system has the capability for a user to create and manage care plans.
+The system has the capability to override the warning after entering a justification for the override. 
+The system has the capability to supplement standard order sets with additional information. 
+The system has the capability to allow entry of multiple orders or requests for services in one order session without reentry of basic information.
+The system has the capability to notify multiple departments with single order and required equipment support transmitted. 
+The system has the capability to support the inclusion of Kardex-type of information. 
+The system has the capability to modify care plan/interventions based on newly assigned caregiver or medical orders or new diagnosis.  
+The system has the capability to document reason for verbal order.
+The system has the capability to automatically notify providers of outstanding verbal orders needing signature. 
+The system has the capability to flag all unsigned orders.
+The system has the capability to periodically remind provider of unsigned orders.
+The system has the capability for an automatic pre-notification to Ordering Clinicians that order will stop.
+The system has the capability for an automatic escalation if notification is not acknowledged prior to stop time. 
+The system has the capability to enter an order with more than one occurrence and to specify the number of occurrences and/or dates/times/intervals for the occurrences.
+The system has the capability for integrated results with automatic notification and a single location to view all results. 
+The system has the capability to cause an "alert" in performing department for STAT orders and process immediately.
+The system has the capability for automatic escalation if "Abnormal" Alerts are not acknowledged.
+The system has the capability to allow medications to be ordered by brand and generic names.
+The system has the capability for conditional orders that are activated based satisfaction of their conditions.
+The system has the capability to capture orders using pre-define orders sets and "sliding scale orders".
+The system has the capability to generate relevant requisition numbers, registration numbers, etc. to enable closed-loop tracking with relevant source system.
+The system has the capability to require that all orders be digitally signed and date/time stamped at the completion of each order.
+The system has the capability to assign and display an order number for active, hold, and pending orders.
+The system has the capability to require a justification for overriding, changing and canceling an order prior to be allowed to continue.
+The system has the capability to enable selected orders to be recurring orders.
+The system has the capability to look up contact information for providers, departments, pharmacies, and other entities.
+The system has the capability to automatically cancel active orders following discharge.
+The system has the capability to automatically generate notification of cancellation to the appropriate department(s).
+The system has the capability to change order priority after order entry/verification, with prompt for reason.
+The system has the capability to provide an on-line inquiry/display of all or selected patient orders. 
+The system has the capability to support suspension of orders upon transfer with selective reactivation and countersignature by the receiving medical care provider.
+The system has the capability to support countersignature of order written or discontinued by a medical student or unauthorized consultant for which activation is held pending the countersignature.
+The system has the capability to enter orders for preadmission and pre-registration patients, including ability to define the activation date for the order and to bill to the future encounter.
+The system has the capability to flag orders if not in compliance with medical necessity (as defined by entity, facility, or department).
+The system has the capability to customize pre-notification lead time.
+The system has the capability to provide automatic notification of integrated results.
+The system has the capability to provide visual user alerts in the form of po-ups, color codes etc. at the point of data entry and when displaying information on the screen.
+The system has the capability that in the event that an order has been made to an incorrect patient that they order could be moved to the correct patient.
+The system has the capability to require medium and high severity alerts due to medication counter indications to be approved by the pharmacist.
+The system has the capability to incorporate institution defined rules into order entry function.  
+The system has the capability to support the special needs of order entry in the Emergency & Operating Room.  
+The system has the ability to incorporate charging and workload methodology with order entry.
+The system has the ability to display critical relevant data when creating orders. (e.g., CT exam, BUN, Creatinine, liver enzymes)
+The system has the ability to enter multiple orders at the same time without the need to re-select PT from a list or re-enter PT ID information.
+
+The system has the capability to create algorithm charts for common situations and procedures. 
+The system has the capability to provide alerts and reminders based on predefined clinical guidelines
+The system has the capability to have decision support capabilities and alerts that identify the reason for the alert, relevant trigger data, severity/risk, and Integrated Decision Support.
+The system has the capability to queue notification of consultation needed to the consultant and to notify the user of consult completion, including consult note. 
+The system has the capability to track and report number of consultations requested and number performed per physician.
+The system has the capability to withhold an encounter from being closed without certain data fields completed.
+The system has the capability to differentiate result notes from other types of visit notes.
+The system has the capability to provide system-wide quality reporting and physician specific performance feedback.
+The system has configurable protocols and alerts for each disease entity.
+The system has the capability to capture the data and the reports available to meet the National Patient Safety Goals.  Of specific concern are the patient Safety Goals that address infection control (e.g., central line infections, surgical site infections).
+The system has the ability to flag or identify patients that meet criteria for clinical studies.
+The system has the ability to integrate order sets, pathways or regulatory core measure criteria with prompts to provider for usual practices/expectations and method of documenting a deviation from usual or expected practice.
+
+The system has the capability to view lab results during the pharmacy order process flow.
+The system has the capability to address verification of order by Pharmacist, as well as address duplicate Therapy checking; drug to drug interaction checking; drug to allergy checking; drug to food interaction checking.
+The system has the capability to address soft and hard stop on orders defined by LAC/DHS policies and procedures.
+"The system has the capability to address Chart Lock functionality for medication orderings. 
+  • IV Admixture compatibility;
+    o Scoping of Frequencies at the Nursing Unit
+    o Contra-indication checking;
+  • Print outs of patient information in the form of Leaflets.
+  • Capability to enter free text medications.
+  • Capability to modify a medication order when the original order is modified including new parameters applied and a new signature applied to the order.
+    o TPN
+    o Multi-ingredient IV ordering  Order Catalog as part of the eMAR
+    o Virtual views
+    o Rx Masks
+    o Rx synonyms
+    o Order Entry Formats
+  • Creation of on-line MAR and IV documentation
+  • Charge on order/administration
+• Documentation of an on-line MAR
+o IV Charting
+o IV rate 
+o Infuse Over Calculations
+• Capability to view discharge Meds Profile as well as inpatient meds profile
+o Sliding Scale ordering
+o Weight Based dosing
+o Rx order Sentences
+o Medication orders
+o Physician co-sign for medications
+• Capability to handle medical student orders/new orders
+"
+The system has the capability to address pharmacy clinical documentation.
+"The system has the capability to address:
+  • Pharmacy Reference Data including dispense Categories
+  • Dosage Forms
+  • Frequencies
+  • Label Comments
+  • Order Alerts
+  • Price Schedules
+  • Reason Codes
+  • Routes of Administration
+  • Units of Measure"
+The system has the capability to address departmental Orders for Inpatient medications.
+The system has the capability to support pre-defined defaults for order details.
+The system has the capability to address formulary items.
+The system has the capability to address pharmacy label formats.
+The system has the capability to support Standard IV Label; Standard Medication Label; Standard Self Med/Pass Med Label; Standard Oral Syringe Label; Standard Outpatient Label.
+The system has the capability to address medication administration processing.
+"The system has the capability of providing the following reports:
+  • Standard Profile Pharmacy Medication
+  • Standard Stop Order Report
+  • Standard Worklist Report
+  • Standard Checklist Report
+  • Drug Inquiry
+  • Special Status Inquiry for non-formulary meds
+  • Order Action Workload by site and location
+  • Order Action Workload by site and user
+  • Dispense Categories Workload by site and user
+  • Dispense Categories Workload by site and location
+  • Pharmacy Billing Journal
+  • Drug Utilization Report
+  • Formulary Analysis
+  • Interaction Alert Views
+  • Order Action Analysis
+  • Order Dispense Analysis
+  • Product Dispense Analysis"
+"The system has the capability to utilize pharmacy industry standardized databases that include:
+  • Basic drug information
+  • Drug-drug interactions
+  • Drug-food interactions
+  • Drug allergy/allergic cross-reactivity checks
+  • Therapeutic duplication
+  • Pharmacology Side effects/toxicities
+  • Warnings
+  • Pregnancy hazards
+  • Lactation hazards
+  • Therapeutic categorization
+  • Consumer drug education (English & Spanish)
+  • Warning labels  Brand/generic name
+  • Formulations
+  • Routes
+  • Orange book codes
+  • AWP Drug pricing
+  • Pediatric and adult order sentences content
+  • Dose-range checking content based on patient parameters such as age and 
+    weight"
+The system has the capability to address Dose Range Checking including alerts presented to Pharmacy users during Order Entry to ensure medication order doses are within safe and effective ranges; Dose-range checking (age- and weight- specific); Checking performed on medication, PRN, and intermittent orders for single doses, daily doses, and length of therapy on order-by-order basis.
+"The system has the capability to support decision support rules for pharmacy orders including:
+  • Validating have data in Height, Weight and Allergy fields
+  • Standard IV/PO switch that can recommend a switch from an expensive IV medication to a more cost effective oral equivalent
+  • Standard IV/PO WBC Switch that recommends a switch from an expensive IV  medication to a more cost effective oral equivalent when the White Blood Cells falls within normal ranges
+  • When ordering renally excreted, or nephrotoxic, medication for a patient with a recent creatinine result that indicates impaired renal function, a dosage  adjustment is recommended
+  • Alert evokes when renally excreted drug is ordered"
+The system has the capability to address the need for an Electronic Medication Administration Record  (EMAR).
+The system has the capability to provide a list and description of all fields in the drug record Formulary file. 
+The system has the capability to alert the user of any Drug - Drug interaction, Food - Drug interaction, Drug - Disease interaction, Drug - Allergy interaction.
+The system has the capability that provides the user the ability to add and/or edit the interaction alerts. 
+The system has the capability that provides the user the ability to delete the interaction alerts on a drug by drug basis.
+The system has the capability to capture true allergies and reactions to allergies differently from drug intolerances as discrete data.
+The system has the capability to have pre-notification occurrence prior to order stop time.     
+The system has the capability to have automatic notification of customized "abnormal" alerts.
+The system has the capability for to record, manage and report on patient allergies. 
+The system has the capability for medication therapy monitoring. 
+The system has the capability for order entry form on one screen including unit dose and IV. 
+The system has the capability to have order verification for technician order entry.
+The system has the capability to identify floor stock items for each patient care units (such as Pyxis items).
+The system has the capability to re-schedule, suspend, discontinue IV orders. 
+The system has the capability to build tapering doses.   
+The system has the capability to "lock down" orders that are restricted to specific groups of physicians/services or alerts defined by user.
+The system has the capability to automatically stop and/or hold order.    
+The system has the capability to generate cart exchange, fill list, IV picking, IV fill list.      
+The system has the capability to provide on-line drug information.    
+The system has the capability to have a controlled substance tracking. 
+The system has the capability to have drug utilization reporting. 
+The system has the capability to add and/or edit medications. 
+The system has the capability to add drips. 
+The system has the capability to add and/or edit hemodynamic data elements. 
+The system has the capability to view on demand the patient's current/active medications.
+The system has the capability of dose and age range checking.
+The system has the capability to generate patient medication profile for decentralized clinical pharmacist.
+The system has the capability to implement user-defined drug restrictions. 
+The system has the capability (at the user/administrative level) to add all new vaccine products and antigens to the system's immunization (tracking) data base.
+The system has the capability to record the date and time (if known) of vaccine reaction or allergic occurrence and display an alert if the user orders a subsequent vaccine type.
+The system has the capability to display an alert if the user orders a subsequent vaccine type recorded under the vaccine reaction or allergic occurrence. 
+The system has the capability to present structured Allergy information to support the medication ordering process.
+The system has the capability to automatically alert and receive response back from the provider missing data required to compute a dose (e.g., dose type).
+The system has the capability to automatically alert and receive response back from  the provider with invalid data required to compute a dose (e.g., dose type).
+The system has the capability to alert the user when a maximum individual or daily dose would be exceeded.
+The system has the capability to capture and display the approximate date/time of the allergy occurrence as well as capturing allergy symptoms (e.g., rash, fever, chills). 
+The system has the capability to capture food/environmental allergies as discrete data.
+The system has the capability to provide tool to facilitate reconciliation of patients' medications (past and present) across the continuum of care.
+The system has the capability to allow automatic addition of medications based on orders and prescriptions.
+The system has the capability to have reminders to clarify similar medications on the active list.
+The system has the capability to view patient Immunization List. 
+The system has the capability to display Med List by on-going vs. one-time medications.
+The system has the capability to have the easy closed-loop medication refill process that allows nurse to get online approval from physicians.
+The system has the capability for calculation of common medication dosages by weight. 
+The system has the capability for dose range checking against established ranges for weight, age and other conditions.
+The system has the capability for seamless integration with MAR, paper and on-line.
+The system has the capability to alert the user of lookalike and sound alike drugs.
+The system has the capability for automatic volume calculations, flow rates and compounding information.
+The system has the capability to interface with Bar Code medication administration system.
+The system has the capability to interface with Automated Dispensing cabinet. 
+The system has the capability to generate 3D or 2D bar-coding labels, recodes, forms and MARs.  
+The system has the capability for on-line pharmacy intervention, ADR and ADE documentation. 
+The system has the capability to reverse, modify, and resubmit prescription refill claims online. 
+The system has the capability for the critical care solution to support IV drip conversions from within the flow sheet view. 
+The system has the capability to graph titrated IV drips against blood pressure and heart rate.
+The system has the capability to document patient problems, medications, medication reconciliation, and allergies/ADRs in the EHR, which provides the ability to manage each of these list-types. 
+The system has the capability to review patient problems, medications, medication reconciliation, and allergies/ADRs in the EHR, which provides the ability to manage each of these list-types. 
+The system has the capability to update patient problems, medications, medication reconciliation, and allergies/ADRs in the EHR, which provides the ability to manage each of these list-types. 
+The system has the capability to have ePrescribing capability to document and store physician and patient info and SIG.  
+The system has the capability on its medication module to access the  National Drug Classification (NDC) database.
+The system has the capability for a use to document the effectiveness or ineffectiveness of a medication in the form of comments, notes or by using a qualitative or quantitative scale.
+The system has the capability of storing repeat prescription information. 
+The system has the capability for a user to retrieve prescription order information that has been previously entered in the system.  
+The system has the capability for medication management: Ordering, Acknowledging of order, pharmacy review filling of medication and the documentation of admission. 
+The system has the capability for drug monographs.  
+The system has the capability to support the IVR process through the Retail Pharmacy solution. 
+The system has the capability to support written prescription image capture  through the Retail Pharmacy solution. 
+The system has the capability to support interfaces to pharmacy automation through the Retail Pharmacy solution. 
+The system has the capability to define printer routing for printing missing doses and MAR. 
+The system has the capability to monitor adverse drug reaction. 
+The system has the capability to batch refill.
+The system has the capability to return to stock processing. 
+The system has the capability to support all refills to be processed at a central location.
+The system has the capability to import inpatient medication profile for medication reconciliation.
+The system has the capability to review inpatient medication profile for medication reconciliation.
+The system has the capability to support inventory control through the Retail Pharmacy.
+The system has the capability to support electronic signature through the Retail Pharmacy.
+The system has the ability to maintain an enterprise wide formulary and process to distribute the formulary across the enterprise.
+The system has the ability to determine cost per administration of drug when the purchase of the drug is not in the same increment.
+The system has the ability to receive patient medication information from an external source
+The system has the capability to alert for needed liver enzymes when patient total dosage reaches certain level.
+The system has the capability to document for each item the date, time, person, references and next review date.  
+The system has the capability to have the ability to review scanned prescriptions.  
+
+The system has the capability to perform and manage Medication Reconciliation including medication prescription, ordering, administration, and reconciliation with the use of bar code-enabled medication dispense. 
+The system has the capability to perform medication reconciliation by listing active and inactive prescriptions.
+The system has the ability to indicate order still pending/not completed when transfer or moved or not completed in specific time frame (e.g, antibiotic ordered, pending pharmacy delivery and patient moves from ED to ICU before delivered)
+
+The system has the capability to have technical modules that chart clinical and laboratory data.   
+The system has the ability to handle the results of profiled items (e.g. WBC,RBC,Hgb, Hct.), and recognize them as a grouped item but also an individual component.
+The system has the capability to address the unique results of microorganisms and related antibiograms.
+The system has the capability to handle reflexive testing.  An example of reflexive testing is when a confirmatory test is automatically ordered after a screening test is positive.
+The system has the capability to handle/enable the user to result a WBC cell differential.
+The system has the ability to archive patient's results and retrieve them  when they return to the facility. 
+The system has the ability to handle point of care testing and entry and display of results on the patient's MAR (e.g., sliding scale insulin).
+The system has the capability to handle planned orders (future orders)  including how to prevent redundant testing by different ordering clinics.
+The system has the capability to generate specimen labels and customize the label.
+The system has the capability to purge or archive lab orders.
+The system has the a method for positive identification for patients prior to phlebotomy and point of care testing.
+The system has the ability to document the specimen collection information.
+The system has the ability to integrate specimen tracking for offsite clinics and health centers.
+The system has the capability for the clinician to document review of results.
+The system supports a process for handling critical lab values.
+The system has  capability of building manual and automated tests, reports, QA, setting up critical values, delta checks.  
+The system has the ability to define delta checks, differential checks and others parameters to meet a specific defined population.
+The system has the ability to have a bidirectional interface with instruments.
+The system has the ability to create rules for specific tests and alert routing to the testing personnel of additional testing or confirmation of abnormal results.
+The system has the ability to build reports that can be customized and queried.
+The system has the ability to export reports in ascidia comma delimited, txt or HL7.
+The system has the ability to authorize non-lab personnel access to specified lab reports.
+The system has the ability to capture the user entry of Source, fixatives, # of tissues submitted.
+The system has the ability to document date/time of collection.
+The system has the ability to generate specimen labels, multiple labels if needed.  Information includes patient demographics, type of specimen, date/time collected, order comments in a readable format (no codes).
+The system has the capability to capture and barcode patient demographics, specimen #, collect date/time.
+The system has the capability to capture specimens received using a barcode scanner.
+The system has the ability to print cassette and slides with MRUN# and Spec#
+The system has the ability to add and document additional testing, i.e., histological special stains, immunohistochemical staining with markers.
+The system has the ability to format reports.
+The system have the ability to allow/restrict non-Pathologist to view results based on order/specimen status (e.g., prelim, final).
+The system has the ability to document notification to clinician of abnormal results.
+The system has the ability to select or allow privileges based on position (e.g., Resident, Attending, Dept Head, etc.).
+The system has the ability to create an addendum to a report.
+The system has the ability to electronically sign single and/or multiple signatures for a single report.
+The system has the ability for Pathologist to view all reports pending signature for their own reports.
+The system has ability for Pathologist to assign other Pathologists to sign in place of them.
+The system has the ability to create management and technical reports for QA/QI, workflow, etc.
+The system has capability to enable an user to pull resulted anatomical reports based on Attending, Resident or Diagnosis.
+The system has the ability to track turnaround times for a defined group of physicians.
+The system has the capability to Generate back-reports or view on any patient with a current AP order.
+The system has the capability for a user to associate laboratory orders with a charge code.
+The system has the ability to create accounts for Outside Consultation.
+The system has the ability to store cellular images attached to the case and viewable to Clinicians.
+The system has the capability to have test results linked or cross-referenced to associated clinical reports for correlation studies (i.e., Anatomical Pathology reports and Cytotogy results).
+The system has the capability to utilize standard coding for anatomical pathology.
+The system has the ability to integrate body part diagrams into Anatomical Pathology Reports.
+The system has the ability to report to external agencies (e.g., cancer registry).
+The system has a process of linking local organism codes to the SNOMED and LOINC codes.
+The system has capability for read back and verify of critical labs.
+The system has the ability to order panels of labs (e.g., sepsis panel, trauma panel).
+
+The system has the capability to automate and manage processes for the radiology processes, including scheduling, radiology orders, film management, exam management, transcription and result processes.
+The system has the capability to address Radiology Reference Data including the following modules:  CAT SCAN; Ultrasound; Nuclear Medicine; General Radiology; Mammography; Cardiology; MRI.
+The system has the capability to support cancel notices; Transcription; delineation of “reason for exam”; Patient packets to include: consent labels; flash cards; film folder labels; transport notice; requisition.
+The system has the capability to support Online Technical Comments which include the ability for the technologist to document technical factors.
+The system has the capability to support Medication Adverse Reaction Tracking including reactions to medications that may happen during radiology exam or contract media and can be documented as well through the common allergy application.
+The system has the capability to support medications documented in Radiology Management display on the MAR or be available for interaction checking.
+"The system has the capability to provide the following reports:
+  • Actual TAT Log
+  • Detail Level Activity Report
+  • Exam Activity Report
+  • Order Activity Report
+  • Medication Documentation
+  • Repeat Analysis Report
+  • Transcriptionist Activity Report"
+The system has the capability to support Folder/Film Management Tracking to simplify tracking films as they are being checked in and out of the radiology service.
+The system has the capability of tracking release of digital image files to patients or provided to an outside facility.
+The system has inquiry functions for detecting missing folders and delinquent loans, in addition to tracking films that are sent to the radiology service from outside sources (foreign films).
+The system has the capabilities for documenting Radiologists' interpretations of images either through dication or in writing.
+The system has the capability to support role-specific applications for radiologists and other interpreting physicians to access exam, report, and other clinical information, create reports using templates and to electronically sign reports within Radiology.
+The system has the capability to support mammography management as an integrated product option that provides the ability to track and manage mammography procedures to ensure patient follow up and provide statistical outcome reporting. 
+"The system has the ability to support the tracking of the following:
+  1) Tracking of Mammography Screening and Diagnostic exams with 
+      attachment of ACR BI-RADS coding; please include how the system
+      meets the MWSA (Mammography Quality Standards Act)
+  2) Patient Letters for Mammography exams
+  3) Patient Notifications; Patient Reminders
+  4) Patient Warnings; Physician Survey
+  5) Physician Reminder; Physician Warning"
+"The system has the ability to generate the following reports:
+  1) Patient History Form with Breast Diagram
+  2) Standard Management Reports
+  3) Summary Report by Radiologist
+  4) Outcome Summary Report
+  5) Assessment and Recommendation by Patient Age Group
+  6) Follow-Up Report
+  7) Assignment of Statistical Category based on Pathology Information
+  8) Reports by Radiology sub-section"
+The system has the ability to support Radiology departmental scheduling as an Integrated option providing the ability to schedule appointments for procedures performed for the Radiology Service.
+The system has the ability to support Scheduling of Appointment types as either specific Appointment Types equivalent to orders, or Generic Appointment Types.
+The system has the capability to limit scheduling to View Only, Add and Modify, and/or Database Maintenance.
+The system has the capability to restrict scheduling based upon location of the patient or provider.
+The system has the capability to view PACS images with the Rad report.  System will handle orders with multiple image types if the PACS system can only process each image separately.
+The system has the capability to display Radiologist work at sign on. 
+The system has the capability to choose their workflow/tasks.
+The system has the capability for user-defined worklist.  
+The system has the capability to have messaging capability akin to "post-it notes". 
+The system has the capability for standardization of "Normals" across all procedures including Mammography.
+The system has the capability for managing, tracking and archiving films. 
+The system has the capability to support Breast Imaging Reporting and Data System Atlas (BIRADS). 
+The system has the capability to support BIRADS categories 0-6. 
+The system has the capability to reconcile radiology exam (RIS) and image information (PACS) mismatches.  
+The system has the capability to be DICOM compliant for images.  
+The system has the capability for alerting the Radiology Technician of drug allergies, e.g., contrast media allergies.
+The system has the ability to maintain Radiation exposure per patient records and alerts to users when ordering additional tests when exposure levels are exceeded.
+The system has a process for identifying various stages of radiology reads including the ED preliminary read, radiology preliminary read, and final read including methods of addressing discrepancy in any of these reads.
+The system has the ability to indicate patients in the queue and triage /prioritization method.
+
+"The system has the capability to address:
+  1) Surgical Procedures
+  2) Surgical Personnel
+  3) Surgical Inventory
+  4) Items and Equipment
+  5) Preference Cards
+  6) Pick Lists
+  7) Preference Card Comments
+  8) Surgical Charging
+  9) Bill Item/Price and Bill Code Association
+  10) Anesthesiology required documentation"
+"The system has the capability to support case logging including:
+  1) Documentation of standard case information
+  2) Scheduled case information defaults into documentation
+  3) Case Times
+  4) Case Attendees
+  5) Surgical Procedures
+  6) Delays
+  7) Counts
+  8) Prosthetic Devices
+  9) Additional user defined forms and fields
+  10) Preference Cards including Generic procedure-based preference cards
+  11) Surgeon-specific preference cards
+  12) Comprehensive preference cards including Pick Lists
+  13) Documentation segments and default values"
+"The system has capability to support:
+  1) Search Preference Card database based on any of the following criteria
+  2) Procedure
+  3) Surgeon
+  4) Specialty
+  5) Date created, modified, last used in case
+  6) Personnel - created by, modified by "
+The system has the ability to copy multiple preference cards simultaneously using Copy Wizard functionality.  This should include the capability to upload existing Preference Card pick lists and comments.
+The system has the ability to support Case Cart/Pick List Management that allows Pick lists automatically generated for scheduled case(s)/procedure(s) via batch operations.
+"The system has the ability to provide reports for the following criteria:
+  1) Scheduled case analysis
+  2) Scheduled procedure analysis
+  3) Cancelled case analysis
+  4) Completed case analysis
+  5) Procedure volume analysis
+  6) Procedure Coding Analysis
+  7) Implant log analysis
+  8) Delay reason analysis
+  9) Case cost analysis
+  10) Summary case cost analysis
+  11) Attendee case analysis
+  12) Attendee procedure analysis
+  13) Ability to save search criteria and report format through creation of ""saved views""
+  14) Ability to create ad-hoc reports
+  15) Ability to share reports (""saved views"") across users
+  16) Stoplight rules for highlighting exceptions
+  17) Export report data to Microsoft Excel"
+"The system has the ability to support the use of standard utilization reports including:
+  1) Block Utilization
+  2) Surgeon Utilization
+  3) Specialty Utilization
+  4) Cases with no preference card report
+  5) Cases with no surgeon-specific preference card report
+  6) Critical item report
+  7) Non-stock item report
+  8) Cases with no charges report"
+The system has the ability to support Intraoperative Nursing Documentation including Forms-based nursing documentation of postoperative case information.
+The system has the ability to support Intraoperative Nursing Documentation including scheduled case information defaults into nursing documentation and allow for documentation by exception.
+The system has the ability to support Intraoperative Nursing Documentation including pre-defined values default from preference cards and allow for documentation by exception.
+The system has the ability to support Intraoperative Nursing Documentation including case pick list usage documentation by exception.
+"The system has the ability to support Scheduling Appointment Book including:
+  1) Centralized or decentralized scheduling
+  2) Block scheduling utilizing flex rule and block expiration logic
+  3) Appointment shuffling
+  4) System-calculated total case duration for multiple procedure cases
+  5) Procedure durations based on surgeon/procedure recent or historical averages
+  6) Automatic printing of appointment notifications
+  7) Public and private scheduling comments
+  8) Scheduling action comments
+  9) Protocol Scheduling: up to y protocols per facility
+  10) Personnel conflict checking of up to y personnel resources
+  11) Equipment / instrumentation conflict checking across multiple surgical areas (from preference card pick list)
+  12) Surgeon Privilege Checking
+  13) Scheduling Guidelines (pop-up dialog windows)
+  14) Total number of Blocks
+  15) Total number of Appointment Types"
+"The system has the ability to support preoperative nursing documentation including:
+  1) Pre-Admission Testing 
+  2) Forms-based nursing documentation of preoperative case information
+  3) Scheduled case information defaults into nursing documentation and allow for documentation by exception
+  4) Pre-defined values default from preference cards and allow for documentation by exception
+  5) Case pick list usage documentation by exception"
+"The system has the ability to support postoperative nursing documentation including:
+  1) Forms-based nursing documentation of postoperative case information
+  2) Scheduled case information defaults into nursing documentation and allow for documentation by exception
+  3) Pre-defined values default from preference cards and allow for documentation by exception
+  4) Case pick list usage documentation by exception"
+The system has the ability to support bedside medical device interfaces which includes each identified bed being interfaced to a bedside data storage device.
+"The system has the ability to support physician InBox functionality including:
+  1) Notification
+  2) Signing transcription
+  3) Forwarding results
+  4) Cosigning orders"
+The system has the ability to support the notification of forwarded items including items that can be proxied individually to selected user(s). Group proxy functionality is also available for Forwarded Items.  
+The system has the ability to support Result Notifications to the ordering provider. Areas will include results to endorse within the inbox and notifications of orders that have been placed by non-providers/physicians and that need to be cosigned or approved.  
+The system has the capability for scheduling all operative rooms and resources.
+The system has the capability to integrate with hemodynamic monitors.
+The system has the capability to view prenatal record.   
+The system has the capability to have intrapartum and postpartum to interface.  
+The system has the capability to support all aspects of pre-operative care that is integrated with the electronic patient chart. 
+The system has the capability for multi-booking recurring patients. 
+The system has the ability to interface data from an external Anesthesiology system (e.g., includes Anesthesia start/stop times, ASA scores.
+The system has the ability to provide user security for surgeons, Anesthesiologist, CRNA, etc. to authorize and/or restrict those awaiting approvals from Med Admin or other credentialing agencies. This should include the ability to gather reports based on sub-divisions of surgery.
+The system has the ability to document surgery information that has 2 or more surgeries being performed simultaneously on the same patient.
+The system has the ability to export OR data to a file for upload to an external site (assumes you are given the receiving systems format).
+
+The system has the ability to trend vital signs with administration of vasoactive agents.
+The system has the ability to bypass admitting screens to enter emergency treatment upon arrival.
+The system has the ability to link/auto-populate  Point of care Testing (POCT) to various relevant sections of the E.H.R.
+The system has the ability for the ICU component to acquire data from physiologic monitors.
+The system has the ability for the ICU component to acquire data from bedside monitors.
+The system has the ability to perform standard physiologic calculations.
+The system has the ability to calculate acuity scores.
+The system has the ability for the ICU component to integrate and present fluid balance.
+The system has the ability to generate user alerts if procedures do not comply with standard protocol.
+The system has the ability to present laboratory data from a variety of sources.
+The system has the ability to support graphing and trending of patient information such as vital signs.
+The system has the capability to interface with beside point of care equipment.
+The system has the capability to interface bedside patient identification technology
+The system has the capability to generate labels for laboratory specimens.
+
+The system has the capability to provide all necessary documentation for Rehabilitative Medicine for a large Rehab facility including the calculation and process to determine FIM’s score.
+The system has the ability to document rehab services evaluations and obtain approvals for treatment, including support for the underlying routing process.
+
+The system has the ability to support EMPI maintenance of the integrity of a single person record by co-coordinating and reconciling incoming demographic data created in any proposed vendor system.
+The system has the capability to provide unique identification of persons across an enterprise, regardless of the number and type of registration systems publishing to the EMPI. 
+The system has the ability to support advanced search algorithms providing the ability to perform inexact matching of the data provided from the proposed vendor’s system common person search through all applications and modules. 
+The system has the capability to perform inexact matching of the data for a common person search, passively through the inbound ADT interface match and reconcile processes.
+The system has the capability to include person combine tools to allow users to quickly, accurately, and efficiently define and merge person records.
+The system has the ability to support Content Code Sets including Admission Sources, Admit Mode, Admission Types, Race Codes, Accident Codes, Discharge Dispositions, Hospital Services, Language, Marital Status, Religion, Provider Specialty.
+The system has the ability to support registration flows for: Add/Modify/View Person; Modify/View Encounter;  View Person; View Encounter.
+The system has the capability to support Search Criteria Including: MRN, Last Name, first, SSN, DOB, Medicaid number, Medicare number, and CIN.
+The system has the capability to support Probabilistic Match Weights to determine duplicate potential duplicate records during registration and Medical records merging.
+"The system has the capability to support EMPI reporting for the following:
+  1) EMPI Person Combine Report
+  2) EMPI Person Combine or Duplicate Report
+  3) EMPI Person Combine Overlap Report
+  4) EMPI Possible Person Matches
+  5) EMPI Possible Person Matches-Duplicate Report
+  6) EMPI ESI Overlay Report; EMPI PM Overlay Report"
+The system has the capability to support integrated Medical Necessity Checking using (Advance Beneficiary Notification).
+The system has the capability to support an integrated Enterprise Eligibility Management verification process that provides the ability to perform a single eligibility verification status inquiry for a patient/subscriber/dependent that verifies if insurance will cover the medical service to be rendered prior to performance to ensure reimbursement to respective providers.
+The system has the ability to capture, retain, update the assignment of a Medical Home for each patient. (must have the ability to receive data from external sources like CHP, HWLA, etc and should have the ability to track changes with audits). The system also needs to integrate into clinical systems (ED, Scheduling, etc.).
+The system has the functionality to assist users in the prevention of generating duplicate patient records for example through matching algorithms for names, address information and other demographic indicators.
+The system has the ability to connect similar such as Gonzalez and Gonzales as possible matches.
+The system has an unmerge process.
+
+The system has an integrated HIM set of functionality committed to the elimination of redundant data entry and the minimization of manual activities.
+The system has the ability to support Patient Data Management,  Patient Care Chart Requests/Deliver, Documentation Completion, Coding/Abstracting Management, Release of Information Management, and Chart Location Tracking.
+The system has the ability to support deficiency modules, inter-hospital chart requests, suspension process, and release of information.
+The system has the ability to support Encoding Management/HIM Chart Coding through third party modules like 3M and/or Quantim.
+The system has the ability to support Barcode Labels for chart tracking.
+"The system has the ability to support integrated medical transcription management modules that include:
+  1) Medical transcription
+  2) Remote transcription
+  3) Document types that delineate care levels
+  4) Multiple signature lines
+  5) Medical dictionaries
+  6) Document tracking
+  7) Deficiency tracking"
+The system has the capability to support the merging and un-merging of identified duplicate medical records.  The EHR System will need to be able to track the changes as well as accommodate moving visit information (e.g., an account) from one medical record to another with associated audit trails.
+The system has the ability to electronically receive from an external source scheduled reports (e.g., lab) and assign them to the appropriate patient records/accounts.
+The system has the ability to electronically route a custom report from your system's document imaging system.
+The system has the ability to write custom reports for forms query (e.g., list all the CLIP forms for patients seen in the last month).
+The system has the capability to integrate scanned documents or scanning documents.
+The system has the capability to code Assisted Software Program for outpatient.
+The system has the capability to prevent duplication.
+The system has the capability to support Computer Assisted Coding.
+The system has the capability to support/manage work queue for routing records for review, etc.
+The system has the capability to view the complete final record.
+The system has the capability to route reports to designated supervisors and medical records.
+The system has the capability to generate electronic reports on delinquency status.
+"The system has the following document imaging capabilities:
+  1. Forms tracking and assignment to folders
+  2. Specialized process for routing for deficiency tracking
+  3. Review an assignment
+  4. Routing for analysis
+  5. Annotations
+  6. Routing to MD’s for signature
+  7. Bar coded forms assignment"
+
+The Emergency Triage and Tracking application has the capability to automate and manage the processes for the emergency department to enable efficient, comprehensive providing care in a timely fashion.
+The system has the capability to support Multiple views that display all of the beds in the department and one for each area within the department such as Pediatrics, Chest Pain, Fast Track.
+The system has the capability to track patient statuses for patients with an encounter type of emergency or fast track and display other data about the patient.
+The system has the capability to be configured to meet the needs of various disciplines in the ED such as Physician, Nurse, etc .
+"The system has the ability to track lists, including, but not limited to: 
+  1) EMS List
+  2) Nurse List
+  3) Physician List
+  4) Triage List that includes all patients requiring Triage assessment
+  5) Registration List
+  6) Checkout List including all patients with zero tracking code and placed in checkout location
+  7) Provider List
+  8) Bed Tracking List
+"
+"The system has the capability to support Tracking Events including:
+  1) Arrival
+  2) Bed Assignment
+  3) RN Exam
+  4) Dr. Exam
+  5) Triage
+  6) Registration
+  7) Discharge
+  8) Lab
+  9) X-ray
+  10) EKG which include overdue and critical alerts for each event"
+The system has the capability to support acuity levels such as I-Resuscitation; II-Emergent; III-Urgent; IV-Less Urgent; V-Non-urgent.
+"The system has the capability to support Specialty selections including:
+  1) Cardiology
+  2) Orthopedics
+  3) Pulmonary
+  4) Ophthalmology
+  5) Pediatrics
+  6) ENT
+  7) Dental
+  8) Major Trauma
+  9) Minor Trauma
+  10) Full Code
+  11) Neurology
+  12) Psychiatry
+  13) Internal Medicine
+  14) Musculoskeletal
+  15) Gastrointestinal"
+The system has the capability to support Provider Check-in/Check-out through role assignment such as team assignment, and patient reassignment functionality.
+"The system has the capability to support Provider Roles such as:
+  1) ED Physician
+  2) ED Nurse
+  3) ED Nurse Management
+  4) Nurse Supervisor
+  5) ED Tech
+  6) ED Unit Secretary
+  7) ED Registration
+  8) ED Admin Secretary
+  9) Radiology Transport
+  10) DBA"
+The system has the capability to support Team Assignments.
+"The system has the capability to support ED documentation forms such as:
+  1) ED Triage Adult
+  2) ED Triage Pediatrics
+  3) ED Assessment Adult
+  4) ED Assessment Pediatrics
+  5) ED Education and Teaching
+  6) ED Treatments and Procedures
+  7) ED Valuables/Belongings
+  8) ED Vital Signs
+"
+"The system has the capability to support Reports such as:
+  1) Average LOS Report
+  2) Disposition Log
+  3) Chart Log
+  4) Activity Log
+  5) Patients Events Time Report
+  6) Patient Returns Log
+  7) Admits per Shift Report
+  8) LOS per Shift Report
+  9) Patient Acuity Report
+  10) Patients for Selected Care Providers Report
+  11) Primary Care and Referring Physician Log"
+The system has the capability to ED patient education materials including Discharge Instructions in multiple languages and the capability to save patient education selections to the Electronic Health Record.
+The system has the ability to comply with regulatory requirements specific to the ED such as EMTALA.
+The system has the ability to support pre-registration or an patient en-route.
+The system has the ability to postpone or bypass mandatory/sequential entries in order to treat and document based on patient condition.
+The system has the capability of visual cues to notify the provider of established goals or guidelines times exceeded.
+The system has the capability for inter-facility (county and non-county) and intra –enterprise transfers (between county facilities)  documentation flows between connected facilities.
+The system has the ability to support non-bed/hallway areas for patient care areas.
+The system has the ability to notify provider of need for call back, and a process of documenting.
+The system has the ability to document trauma/resuscitation and support of a trauma reg.
+The system has the ability to support disaster/mass casualties and disaster triage.
+
+"The system has the capability to support Cardiology, including:
+• Problem Lists
+• Procedure Lists
+• Order Entry
+• Charting
+• Cardiovascular PACS Integration"
+The system supports grouping like problems into disease categories (e.g., cerebrovascular disease, congenital heart disease, heart failure, hypertensive heart disease, ischemic heart disease, etc.) and enable one-click search when adding a problem to the list.
+The system supports the ability to define service groups and associate a patient with multiple groups (e.g., adult congenital, general cardiology, heart failure, interventional clinic, or practice A, B, and C).
+The system supports the ability to define clinical trials and assign a patient to one or more clinical trials; this must integrate with patient alerts.
+
+The EHR System has the ability to have a managed care solution as an integrated part of the proposed EHR System or whether a separate solution will be required to which the EHR will interface.
+"The system has the ability to provide the following Managed Care functionality:
+  1. Plan contracts/benefits management
+  2. Membership, enrollment, and eligibility
+  3. Provider network administration
+  4. Provider credentialing
+  5. Contracting and reimbursement
+  6. Encounters, claims, and adjudication
+  7. Capitation
+  8. Correspondence processing
+  9. Premium billing
+  10. Reporting
+  11. General ledger
+  12. Claims payable
+  13. Coordination of benefits
+  14. Authorizations, denials, modifications, and pending referrals"
+"The system has the ability to provide managed care medical administration for:
+  1. Utilization management
+  2. Case management
+  3. Disease management"
+
+The EHR System has the capability to have an anesthesia solution as an integrated part of the proposed EHR System or whether a separate solution will be required to which the EHR will interface.
+The system has the capability to allow for a review of the medical history, including anesthesia, drug and allergy history.
+The system has the capability to allow for documenting interview and examination of the patient related to anesthesiology. 
+The system has the capability to allow for notation of anesthesia risk according to established standards of practice (e.g,. ASA classification of risk).
+The system has the capability to allow for identification of potential anesthesia problems, particularly those that may suggest potential complications or contraindications to the planned procedure.
+The system has the capability to allow for a development of the plan for the patient’s anesthesia care, including the type of medications for induction, maintenance and post-operative care and discussion with the patient of the risks and benefits of the delivery of anesthesia.
+The system has the capability to allow for a review a sample of inpatient and outpatient medical records for patients who had surgery or a procedure requiring administration of anesthesia.
+"The system has the capability to provide an intraoperative anesthesia record for each patient who receives general, regional or monitored anesthesia. Information to track, at a minimum, includes:
+  • Name and hospital identification number of the patient; 
+  • Name(s) of practitioner who administered anesthesia, and as applicable, the name and profession of the supervising anesthesiologist or operating practitioner; 
+  • Name, dosage, route and time of administration of drugs and anesthesia agents; Techniques(s) used and patient position(s), including the  insertion/use of any intravascular or airway devices; 
+  • Name and amounts of IV fluids, including blood or blood products if applicable; 
+  • Timed-based documentation of vital signs as well as oxygenation and ventilation parameters;  
+  • Any complications, adverse reactions, or problems occurring during anesthesia, including time and description of symptoms, vital signs, treatments rendered, and patient’s response to treatment."
+The system has the capability to allow for a post-anesthesia evaluation be completed and documented no later than 48 hours after surgery or a procedure requiring anesthesia services.
+
+Technical Requirements
+Platform
+The system shall be based upon proven state-of-the-art technologies. This includes browser-based, server-side architectures, configurable, and a range of industry-standard database, operating system, and programming platforms. 
+The Web-enabled portions of the application shall meet state-of-the-art Internet standards for graphics and design and for speed, reliability, and security for dynamic content and user interaction.
+The system shall provide the ability to maintain multiple operating environments for development, test, training and production.
+Scalability & Flexibility
+The system, including programs, database, and ancillary hardware and related software systems shall be able to retain its performance levels when adding additional users, functions, and data.
+The system shall be scalable and adaptable to meet future growth and expansion needs.
+The solution functionality and associated business rules shall be configured and re-configured (through tools that do not require "code" modifications).
+The screens shall be highly re-configurable, providing ability to reposition and rename field labels, remove or “turn-off” unused fields, maintain data, and allow addition of custom-defined fields.
+The system shall provide the ability to create and/or modify edits and business rules which determine The acceptance/correctness of data.
+The system shall provide the ability for on-line access by any site connected to the organization WAN.
+The system shall provide the ability for remote access by authorized individuals (i.e. web based VPN access).
+Database Management & Architecture
+The system shall use an open relational database management system (RDBMS) to store all organization data.
+The database system shall provide Structured Query Language (SQL) capabilities for database queries.
+The system shall allow the database information exchange using current commonly accepted industry formats (e.g. HL7, XML).
+The system shall support common database connectivity protocols such as ODBC.
+The system shall provide an automated test script to validate the data after modifications or upgrades.  The tool will support the ability to customize the script and provide a final report to document the validation.
+The system shall provide data import functionality to receive standard format data from external parties.
+The system shall provide data export functionality that creates common export file format (e.g. comma delimited, tab delimited, space delimited, quotation delimited, etc.).
+The system shall provide the database backup and recovery tools required to support organization database recovery plan and procedures (note: if a DRP is in place).
+"The database system shall provide the following features:
+- Simultaneous access to data by concurrent users
+- Row level Locking
+- Automatic Query Optiomization
+- Views
+- Multiprocessor query execution"
+The system shall support an online data dictionary and table relationships that describe and maintain information on each data element including: data element name and type, description of the data element, and the format of each data element.
+The system shall utilize naming conventions and standards for data elements, entities and tables, programs, report names, etc.
+The system shall utilize utilities for database performance monitoring and tuning that comply with industry standards, including but not limited to tools for table & file maintenance.
+The system shall lock database records based on organization parameters (e.g., at row level, field level, or at the application level).
+The system shall accommodate separate instances of databases.
+The system shall support online modifications to database structures with minimal user downtime.
+The system shall allow for data replication including, but not limited to, copying an instance of any database to other organization specified locations (e.g., SAN).
+The system shall have the ability to roll back any system, database, or any other component(s) impacted within 15 minute increments up to 24hrs, any day in the month, any month in the year, and any year in 30 years.
+The system shall provide the ability for the administrator to track user behavior as well as database utilization.
+The system shall provide standard data extraction Application Program Interface (API) to allow import and export of data.
+Data Conversion and Interface
+The proposer shall provide all services needed to transform, standardize, migrate and load external legacy electronic data in order to establish an initial database suitable for live organization operations.
+The system shall provide the ability to extract required data from organization to produce file(s) that can be sent by FTP to external agencies, including a system automated process of generating, encrypting, and delivering data to external agencies.
+The system shall provide the ability to load information from standard file(s).
+The system shall provide the ability to perform real-time updates.
+The system shall have the capability to queue outbound messages in case a receiving system is down temporarily.
+The system shall monitor timeliness of messages and alert users if certain time limits have been exceeded.
+The system shall have the ability to evaluate interface messages for accuracy and completeness, and reject messages that are not constructed properly as well as the capability to generate reports of failed messages.
+The system shall have the capability to analyze, correct and resend messages that have been rejected.
+System Security Requirements
+System Access
+The system shall provide ability to use a single user sign-on for all modules with security configured for each module.
+The system shall have the ability for security module to be maintained by an in-house System Administrator
+The system shall provide expiration dates for passwords.
+The system shall automatically notify users and force them to change passwords on a pre-defined frequency.
+The system shall provide an efficient, flexible way to control and administer multiple levels of user access.
+The system shall have the ability to support web based client access or other internet based client access technologies, with appropriate security access controls.
+"System must support password complexity that meets the following requirements:
+- Must contain at least 1 upper and 1 lower case alpha, 1 numeric, and 1 special character each
+-  Minimum password length – 8 characters
+- Minimum password age – 2 days
+- Maximum password age – 90 days
+- Password expire warning – 14 days
+- Different from the previous 6 passwords used
+- Must not be an English dictionary word
+- Disable accounts after 90 days of inactivity"
+"System provides the following password change rules for user accounts:
+-  Passwords can only be changed by the authorized County System Administrator or the associated user 
+- Passwords can be changed by the associated user only once in a 2-day period 
+-  Passwords can be changed by the associated user only once in a 2-day period 
+- Users are re-authenticated before changing passwords
+"
+The system shall provide lock-out capability after a pre-defined number of unsuccessful user sign-on attempts.
+The password is not displayed as clear text (Password Masking)
+System provides integrated security managed in a central accounts database
+System allows viewing of list of Users logged on to System in real-time
+System allows addition of user-defined messages to logon screen
+System integrates with Microsoft Active Directory for authentication and has the capability of notifying the end user of near domain account password expiration date as well as the ability to reset the password through the system’s user interface
+System performs secure and seamless logon for all third party integrated systems.
+System encrypts passwords before being stored or transmitted.
+System has the ability to disallow more than one active session per sign-on identification.
+System allows users to re-authenticate and remotely log out of an active user session before logging in at another location.
+System requires password re-entry before user is allowed to perform functions predefined as “high security”.
+System encrypts sensitive data transmitted between clients and servers using Secure Socket Layer (SSL) Certificates, Transport Layer Security (TLS), or by other means 
+System provides a web (HTTPS) interface and provides an SSL configuration mechanism.
+System restricts users from directly accessing the database.
+System allows secure password resets in case passwords are forgotten.
+The system shall have the ability to assign application access rights across entire suite of applications at a single point of entry.
+System provides reminder alerts to users to reset passwords.
+The time for passwords to be changed is predefined as per user’s role and access level. The County standard for users is 90 days.
+System provides administrative ability to block users’ access during pre-defined off-hours.
+System provides the option for multi-factor authentication for users with higher security access.
+User Profiles/Administration
+System provides the ability for users to define and store user profile information, including but not limited to, the user’s name, user ID, employee ID, professional designation, etc.
+The system shall have the ability to link the user logon ID to his/her employee number or contractor social security number, as well as to the location or group of locations to which the user is assigned.
+The system shall have the ability to identify the type of single enterprise authentication used for system access, e.g. MS Active Directory.
+System provides the ability to define user roles and user groups and associate these with user accounts.
+System allows authorized site-specific users to manage site-specific user groups and user accounts up to and including their level of authority.
+Ability for an administrator to delegate authority, by user group, to reset password
+Ability for an administrator to delegate authority, by user group, to restore system access of locked out user  
+System provides the ability to restrict access based on users’ accounts’ privileges
+System provides the ability to specify roles and privileges based on login locations
+System allows restriction of rights, privileges or access at the user and group level
+System allows restricting the rights, privileges or access of processes to the minimum required for authorized tasks
+"System allows authorization of administrators to manage restrictions or privileges associated with Users, groups, and processes including:
+- Defining levels of access
+- Assigning levels of access
+- Modifying a level of access
+- Removing a level of access
+- Viewing access levels, privileges and memberships"
+"The system shall have the ability to specify roles and control access by role to:
+- Database
+- Module
+- Field
+- Inquirey
+- Report
+- Approval
+- Transaction
+- Table
+- User Site (i.e. location) across all functional areas
+- Period"
+The system shall have the ability to display the last date and time the user logged onto the system at the time of logon.
+The system shall have the ability to suspend user access based on a table-driven parameter (i.e., employment status).
+The system shall have the ability to suspend user access based on a pre-set date or based on hospital policy requiring renewal of access approval on a variable basis for non-County employees.
+The system shall have the ability to suspend user-access after an organization defined inactivity period (i.e., 90 days).
+"System allows revocation of the access privileges of a user without requiring deletion of the user:
+- User-based (i.e., access rights assigned to each user)
+-  Role-based (i.e., Users are grouped and access rights assigned to these groups)
+- Context-based (i.e., role-based with additional access rights assigned or restricted based on the context of the transactions, such as time-of-day, workstation-location, emergency-mode, etc.)"
+"The system shall have the ability to limit user functionality based on the following access rights:
+- Full
+- Read
+- Write
+- Delete
+- Modify
+- Delete"
+System shall allow assigning multiple roles to one user.
+Input Validation
+System insures that input validation is applied whenever input is received through user or external data interfaces. The validation approach is to constrain, reject, and then sanitize input.  
+System does not rely on client-side validation. The System design assumes that user input is malicious.
+Data is validated for type, length, format, and range. Data validation is consistent across the System.
+"System avoids un-trusted input of file name and file paths.
+- System does not accept file names or file paths from calling functions.
+- Security decisions are not made based on user-supplied file names and paths."
+System does not use parent paths when data within the System is being accessed. Attempts to access resources using parent paths are blocked.
+The web server always asserts a character set: a locale and a country code, such as en_US.
+Authentication
+All system and user accounts are identified.
+Web sites are partitioned into un-restricted and restricted areas using separate folders.
+System uses least-privileged accounts.
+System insures that minimum error information is returned in the event of authentication failure.
+The system shall have the ability to support biometrics and biometrics plus passwords (e.g., fingerprint scan and fingerprint scan plus password).
+System authenticates the user before any access is allowed to protected resources (e.g., Protected Health Information)
+System authenticates standalone devices before access is allowed to protected resources.
+If Structured Query Language (SQL) authentication is used (e.g., communication between the application server and the database server) credentials are secured in storage and over the wire via Secure Socket Layer (SSL) or IP Security (IPSec).
+Authorization
+Measures are in place to prevent, detect and log unauthorized attempts to access the System.
+Rights and privileges are assigned based on authorization roles.
+Database restricts access to stored procedures to authorized accounts only.
+Direct access to database tables is prohibited.
+All account IDs that are used by the System are identified and the resources accessed by each account is known.
+Roles are mapped to user and data interfaces. Role rights and privileges are identified and maintained in an access control list.
+System resources are mapped to System roles and allowed operations for each role.
+Configuration Management
+Administration interfaces require strong authentication and authorization.
+Administrator privileges are separated based on roles (e.g., site content developer, system administrator).
+Remote administration channels are secured (e.g., SSL, VPN)
+Configuration stores are secured from unauthorized access and tampering.
+Configuration credentials and authentication tokens are not held in plain text in configuration files. (e.g., ssh client config file with remote login ID and password.)
+User accounts and service accounts used for configuration management have only the minimum privileges required for the task.
+Integrity Controls
+Measures are in place to detect unauthorized changes to information.
+Measures are in place to protect information from being accidentally overwritten.
+System supports integrity mechanisms for transmission of both incoming and outgoing files, such as parity checks and cyclic redundancy checks (CRCs).
+Measures are in place to prevent the upload of unauthorized files (e.g., executable files).
+Sensitive Data (e.g., ePHI, Personally Identifiable Information)
+Sensitive data and secrets are not incorporated in  code.
+Secrets are stored securely using a one-way hash. Database keys, connections, passwords, or other secrets are not stored in plain text.
+Sensitive data is not logged in clear text by the System. 
+Database/file encryption for protection of sensitive data fields while the data is at rest (i.e., stored data) is provided.
+Protection mechanisms are in place for sensitive data that is sent over the network.
+Sensitive data is not transmitted using insecure protocols, such as FTP, telnet, tftp etc., unless tunneled through an authenticated encrypted connection (e.g. VPN).
+Sensitive data is not stored in persistent cookies.
+Measures are in place to prevent, detect and log unauthorized attempts to access sensitive or confidential data.
+System restricts transactions involving financial or sensitive data to authorized user sessions originating on the County Intranet WAN only. Access to such transactions from the Internet is blocked.
+System restricts access to financial transactions and other sensitive data by authorized users outside the County Intranet to Read Only mode.
+All user sessions involving financial transactions or sensitive data are encrypted using SSL/HTTPS.
+System provides administrative ability to block users’ access to individual patient records  for privacy reasons
+Session Management
+SSL is used to protect authentication cookies.
+The system shall provide automatic logout of users when there has been no activity for a pre-defined period, maintaining transaction integrity.
+Session lifetime is limited to a pre-specified and configurable duration.
+Session state is protected from unauthorized access.
+Session identifiers are not passed in query strings.
+Temporary objects are removed from the system, database connections are closed, and memory is released.
+Timeouts
+System provides an automatic timeout if the session is idle for a pre-specified and configurable duration.
+System warns the user before the timeout and prompts the user to re-enter their password.
+Encryption
+The system shall have the ability to support 128-bit SSL encryption, or higher, between the client browser and the application tier for any or all modules or sub-modules at organization discretion. Identify security standard (SSL/FIPS encryption). 
+Encryption capability for certain data transmissions that require security protection.
+Platform-level cryptography is used with no custom implementations.
+System provides secure information delivery over the Internet via encryption by using triple-DES (Data Encryption Standard) or the Advanced Encryption Standard (AES)
+Encrypted data delivered over the Internet is transmitted via open protocols (e.g., SSL, XML encryption)
+Cryptographic algorithm and key size for the System’s data encryption requirements is AES 256 bit or stronger.
+Encryption keys are secured.
+Key management procedure to secure and manage the encryption keys is defined.
+Parameter Manipulation
+All input parameters are validated (including form fields, query strings, cookies, and HTTP headers).
+Cookies with sensitive data (e.g. authentication cookies) are encrypted.
+Sensitive data is not passed in query strings or form fields.
+Security decisions do not rely on HTTP header information.
+Exception Management/ Error Handling
+System exception handling minimizes information disclosure in case of an exception.
+System returns generic error messages to the client, to avoid disclosure of sensitive information.
+System code does not rely on internal system generated error handling. The System provides error-handling processes.
+System errors are logged to the error log.
+Private and sensitive data (for example, passwords) are not logged.
+Audit Trails and Logging
+Auditing and logging in the System  includes, at a minimum, authenticated access, configuration changes, privileged access such as use of administrative rights, and change of rights and privileges. The parameters logged includes user or system account ID, date/time stamp, event source, IP address, error/event code and type.
+The system shall have the ability to record or capture information about each authorized and/or unauthorized access attempt such as: User ID, workstation, date, time, transaction (menu, screen, file, object), and attempted type of access (read, modify, etc.).
+System generates an audit record for all activity of a given user (i.e., a trail of all user activity within the System)
+System generates an audit record for activity associated with a transaction, from creation to completion, including logging of data additions, changes, and deletions   
+System provides an audit trail and viewable history of all transactions including but not limited to, user’s login ID, date, and time stamp.
+System allows selection of transactions to be logged
+System allows selection of data elements to be logged in audit records
+System allows logging of all user IDs that has used a given function
+System allows logging of all user IDs that has updated a given field
+"System logs the following information in each audit record:
+- Date and time of the event
+- Component of the System (e.g., software, hardware) where the event occurred
+-  User device or peripheral device involved in transactions
+- Type or transaction
+- User Identity
+- Outcome (success or failure) of the event"
+The System tracks the before and after record of modified data elements 
+The System restrict system administrator from changing log activity
+"The System secures audit records in the following ways:
+-  Allows read access to authorized Users only
+- Protects stored audit records from unauthorized deletion
+- Prevents modifications to the audit records"
+System monitors user audit logs via an automated process, and reports on irregular activity. Irregular activities are identified based on County departments’ rules and regulations. The irregular activity reports are customizable.
+System provides the ability to archive records, reports and historic information for predefined timeline based on rules and regulation.
+System prevents deleted records from being purged until they have been archived.
+System maintains an audit trail of errors and exceptions.
+All changes to the System hosting environment are logged and tracked. Reports are available for significant and critical changes and sent for review by a responsible person.
+Synchronization with Applications or Devices Used in Offline Mode
+Data collection devices (e.g. – handheld devices, etc.) synchronize with the System securely using authentication, authorization and encryption mechanisms.
+Reporting
+The system shall provide summarized and detailed reports on user access, usage logs, etc.
+System provides online reporting capability to authorized County system managers for necessary review and accountability.
+System provides error and exception reports.
+System provides usage reports.
+System provides configuration, user accounts, roles and privileges reports.
+System provides a listing of privileged account holders within the System hosting environment.
+Reporting and Data Warehouse
+The system shall generate charts and graphs based on report data within the system.
+The system shall generate reports directly to MS Office, Hypertext Markup Language (HTML) or PDF formats, Open Doc, Open XML, etc.
+The system shall provide ad hoc and standard query capabilities (with and without input parameters).
+The system shall provide ability to create and maintain a report distribution mechanism with predefined reports (e.g., monthly reports that are specific by role, organization, and location via portal or Web).
+The system shall provide the ability to view previously generated reports by all users or by specific users.
+The system shall provide capability to schedule reports to run automatically.
+The system shall allow for reporting by exception.
+The system shall allow print preview of all reports before printing and have print screen and selective page(s) print functionality.
+The system shall be capable of utilizing MS-Excel to download information from the application and upload information into the application.
+The system shall allow for user-friendly end-user report creation without requiring technical staff or expertise to create and publish reports within the modules.
+The proposer shall provide an Ad Hoc reporting tool. 
+The Ad Hoc reporting tool shall be able to access any delivered or added fields in the database.
+End-user Interface
+The user interface shall integrate information from multiple components into a unified display by business area or work type.
+The system shall provide:
+The system shall have a customizable online documentation and training materials such as context-specific help, search capability, organization-specific business process documentation and process maps.
+The Proposer shall allow for field level edit checks for transactions during data entry and provide immediate user feedback, including error messages and possible corrective actions 
+The system shall have the ability to design a preferred sequence to make data-entry columns and fields match the order of information in organization source documents.
+The system shall allow for the option of auto-fill capability per transaction/field entry throughout all modules
+The system shall have the ability to restrict free form entry (e.g., provide drop down calendar for date field)
+The system shall have the ability to accept mass data entry from an external source
+On-line, interactive help with support for hyperlink technology and industry standard formats (e.g., HTML file formats)
+Intelligent spell checking of text fields
+The system shall have the ability to minimize the necessity of the mouse when user performs data entry tasks
+The system shall present data to users such that a minimum of navigational effort is required, including:
+The data elements required to complete a job function, whether to inquire/read only or data entry must be readily available.
+The user interface shall integrate information from multiple components into a unified display by business area or work type.
+Content and Document Management
+Capture system-generated documents and store them in virtual property or licensee folders.
+The system shall store electronic forms.
+The system shall scan and store imaged documents and electronic files.
+The system shall enable indexing and searching of documents by a variety of user-defined metadata attributes.
+The system shall support for full text search
+The system shall have built-in viewers/converters for a wide variety of file types.
+The system shall enable attachment of documents to e-mails and e-mail distribution lists.
+The system shall store location identification of paper documents (attributes shall minimally include folder, box, and physical location).
+Redundancy & Business Continuity
+The Proposer shall provide a recovery environment to maintain business continuity
+System Capacity & Performance
+The system shall be able to handle an average transaction load with an average CPU utilization of no more than 35%-40% of the CPU capacity. The peak CPU utilization shall never exceed 70% of CPU capacity at any given time. 
+The system shall have a response time where the average transaction on the server needs to occur on average less than 1 second. The response time for the most common requests to reach a user shall not exceed 3 seconds.
+The solution shall maintain 99.9% availability — including planned maintenance.
+The solution shall track system uptime and transaction response times in order to demonstrate operation within acceptable levels.
+The solution shall complete 100% of simple, single-screen online inquiry transactions in under one second, during peak usage.
+The solution shall complete an average of 99% of all online update transactions in under 5 seconds over any 60-minute period, during peak usage.
+Hosting
+The Proposer shall provide the facility required to host the computing and network environment, including appropriate physical security, required third-party software, and 24x7 staff support and monitoring environmental conditions (e.g. HVAC, port, fire detection, suppression, moisture, humidity and temperature.
+The Proposer shall provide and manage all required infrastructure and network equipment within the data center, such as servers, routers, switches, load balancers and consoles.
+Allow access to the EMH solution over the Internet and provide secure and confidential storage of all information transmitted to and from the LA DHS.
+The Proposer shall monitor the computing systems (24 x 7) and communications circuits to report and alert on compromised system health, security, availability and capacity. 
+The Proposer shall review security notifications and alerts relevant to the hosting platform (e.g., notifications of bugs, attacks, patches), and apply as appropriate to maintain the highest level of defense.
+The Proposer shall provide adequate firewall protection in order to secure Personal Data and other Confidential Information users of the EHR from unauthorized access by third parties.
+The Proposer shall test application enhancements, fixes, and upgrades and assure the integrity of the resulting data.
+The Proposer shall provide and maintain a method for proper escalation of issues and log all incidents, problems and error corrections as agreed to with LA DHS.
+The Proposer shall adhere to service levels defined with LA DHS germane to availability, response time based on severity level, credits and other key hosting metrics.
+The Proposer shall meet performance requirements detailed in System Capacity & Performance (Requirements T-213 through T-218).
+Systems Operations Support and Error Handling
+The EHR System shall provide complete audit features for all transactions in all modules of the software solution.
+The EHR System shall be able to perform real-time data redundancy on independent storage devices
+simultaneously and switch over to the mirror database(s). 
+The system shall take advantage of network HA and redundancies and switch over to mirror databases without impact on the user.
+The system shall provide system failovers or database redundancies.

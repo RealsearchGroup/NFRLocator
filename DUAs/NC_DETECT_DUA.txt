@@ -1,0 +1,57 @@
+﻿
+North Carolina Division of Public Health
+Data Use Agreement
+(Revised 2/3/2010)
+
+
+This Data Use Agreement (“DUA”) is effective on the ____ day of ________, 20__, (“Effective Date”) by and between _
+NC Division of Public Health_____________               (“Data Custodian”), and ______________________________________________ (“Recipient”), located at _____________________________________________ collectively hereinafter referred to as the “Parties”. 
+The Division of Public Health is providing the Recipient with a Limited Data Set of Protected Health Information (“PHI”), as defined in 45 Code of Federal Regulations (CFR) §164.514(e)(2).  The North Carolina Division of Public Health, Epidemiology Section (“Data Custodian”) is not a Covered Component within the North Carolina Division of Health and Human Services (as defined in the Health Insurance Portability and Accountability Act of 1996.).  The Recipient may be a covered entity as defined by HIPAA.  However, this DUA shall not be construed as creating HIPAA liabilities for the Data Custodian or Recipient if HIPAA is not applicable to the data use and disclosure provided for under this agreement.
+The Parties agree to the provisions of this DUA in order to address the requirements of HIPAA and to protect the interest of both Parties.  
+1. DEFINITIONS.  Except as otherwise defined herein, any and all capitalized terms in this DUA shall have the definitions set forth in HIPAA.  In the event of any inconsistency between the provisions of this DUA and mandatory provisions of HIPAA, as amended, the HIPAA provision shall control.  Where provisions of this DUA are different than those provided in HIPAA, but are permitted by HIPAA, the provisions of this DUA shall control.
+2. USE OR DISCLOSURE.  Data Recipient shall have the right to use all Individually Identifiable Health Information (IIHI) provided to it by the Data Custodian for the Research, Public Health or Health Care Operations purposes as listed below (be brief but use as much space as necessary):
+
+[ENTER DETAILED PROPOSAL HERE]
+PURPOSE:
+PUBLIC HEALTH SIGNIFIGANCE:
+RESULTS OF PROJECT WILL BE USED FOR:
+   DATA REQUESTED:
+TIME PERIOD:
+DATA DESCRIPTION:
+VARIABLES:
+ESTIMATED STUDY COMPLETION DATE:
+
+3. RESTRICTIONS ON USE.  Recipient agrees that it, and any employees, agents and subcontractors to whom it discloses the IIHI, will not use or further disclose the IIHI other than as permitted by this DUA, or as otherwise required by law or regulation.  Data Recipient shall use appropriate safeguards to protect the IIHI from misuse or inappropriate disclosure and to prevent any use or disclosure of the IIHI other than as provided in this DUA or as otherwise required by law or regulation.  Recipient shall not attempt to identify the individuals to whom the IIHI pertains, or attempt to contact such individuals.
+4. REPORTING.  Recipient shall report to Data Custodian any use or disclosure of the IIHI that is not provided for in this DUA of which the Recipient becomes aware.  Recipient will take reasonable steps to limit any further such use or disclosure. Recipient will send the Data Oversight Committee (DPH and NC DETECT team) a copy of any publications and/or presentations that have been derived from NC DETECT data at least two weeks before presentation or publication, to insure that institutional and personal confidentiality is maintained. All data presented in publications and/or presentations shall be presented in aggregate form only, in a manner in which an individual cannot be identified; in addition, hospital names will not be disclosed. For oral or written presentations or publications, the source of the data must be attributed to The NC Public Health Data Group and NC DETECT.  Material must include the following disclaimer: The NC Public Health Data Group and NC DETECT do not take responsibility for the scientific validity or accuracy of methodology, results, statistical analyses, or conclusions presented.
+5. TERM AND TERMINATION.
+            DUA Termination Date: ____________________________________________
+(a) Term.  The Term of this DUA shall be effective as of the date first written above, and shall terminate when all the PHI provided by Data Custodian to Recipient is destroyed or returned to Data Custodian, or, if it is infeasible to return or destroy IIHI, protections are extended to such information, in accordance with the termination provisions in this Section. 
+(b) Termination for Cause.  Should Recipient commit a material breach of this DUA, which is not cured within thirty (30) days after Recipient receives notice of such breach from the Data Custodian, then the Data Custodian will discontinue disclosure of IIHI and will report the problem to the Secretary, U. S. Department of Health and Human Services.
+(c) Effects of Termination. 
+i. Except as provided in paragraph (ii) of this subsection, within ten (10) days upon termination of this DUA, Recipient shall return or destroy all IIHI received from Data Custodian.  This provision shall apply to IIHI that is in the possession of subcontractors or agents of Data Recipient.  Recipient shall retain no copies of the IIHI.
+ii. In the event that Recipient determines that returning or destroying the IIHI is infeasible, Recipient shall provide to Data Custodian notification of the conditions that make return or destruction infeasible.  Upon mutual agreement of the Parties that return or destruction of IIHI is infeasible, Data Recipient shall extend the protections of this DUA to such IIHI and limit further uses and disclosures of such IIHI to those purposes that make the return or destruction infeasible, for so long as Recipient maintains IIHI.
+
+
+
+        DATA CUSTODIAN (NC DPH):	                        RECIPIENT: 
+
+
+____________________________________	_________________________________ 
+	(Date)	(Date)
+
+
+____________________________________	_________________________________
+	(Signature)	(Signature)
+
+
+____________________________________	_________________________________ 
+	(Printed Name)	(Printed Name)
+
+
+
+
+2
+
+
+Initial: ___________________________
+
