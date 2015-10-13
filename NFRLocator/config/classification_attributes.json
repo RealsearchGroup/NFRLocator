@@ -1,0 +1,144 @@
+{
+	"attributeList" : [ 
+	{
+		"name" : "access control",
+		"type" : "boolean",
+		"description" : "",
+		"abbreviation" : "AC",
+		"includeInEvaluation": false
+	},
+	{
+		"name" : "access control:functional",
+		"type" : "boolean",
+		"description" : "",
+		"abbreviation" : "ACF",
+		"includeInEvaluation": true
+	},
+	{
+		"name" : "audit",
+		"type" : "boolean",
+		"description" : "",
+		"abbreviation" : "AU",
+		"includeInEvaluation": false
+	},
+	{
+		"name" : "audit:functional",
+		"type" : "boolean",
+		"description" : "",
+		"abbreviation" : "AUF",
+		"includeInEvaluation": false
+	},
+	{
+		"name" : "availability",
+		"type" : "boolean",
+		"description" : "When is the system operational for use?  Are certain time periods restricted for activities such as batch processing, system upgrades, backups, etc.  Would the system function in a limited functionality or capacity in such situations?",
+		"abbreviation" : "AV",
+		"includeInEvaluation": false
+	},
+	{
+		"name" : "capacity and performance",
+		"type" : "boolean",
+		"description" : "",
+		"abbreviation" : "PS",
+		"includeInEvaluation": false
+	},
+	{
+		"name" : "data retention",
+		"type" : "boolean",
+		"description" : "",
+		"abbreviation" : "DR",
+		"includeInEvaluation": false
+	},
+	{
+		"name" : "data standards",
+		"type" : "boolean",
+		"description" : "",
+		"abbreviation" : "DS",
+		"includeInEvaluation": false
+	},
+	{
+		"name" : "legal",
+		"type" : "boolean",
+		"description" : "",
+		"abbreviation" : "LG",
+		"includeInEvaluation": false
+	},
+	{
+		"name" : "look and feel",
+		"type" : "boolean",
+		"description" : "",
+		"abbreviation" : "LF",
+		"includeInEvaluation": false
+	},
+	{
+		"name" : "maintainability",
+		"type" : "boolean",
+		"description" : "if the organization intends to increase or extend the functionality of the software after it is deployed, that should be planned from the beginning; it influences choices made during the design, development, testing, and deployment of the system.Ability to execute on multiple platforms.  Conformance to standards: architecture, design, coding, industrial",
+		"abbreviation" : "MT",
+		"includeInEvaluation": false
+	},
+	{
+		"name" : "operational",
+		"type" : "boolean",
+		"description" : "Ability to execute within a specific environment and/or platform.",
+		"abbreviation" : "OP",
+		"includeInEvaluation": false
+	},
+	{
+		"name" : "privacy",
+		"type" : "boolean",
+		"description" : "",
+		"abbreviation" : "PR",
+		"includeInEvaluation": false
+	},
+	{
+		"name" : "recoverability",
+		"type" : "boolean",
+		"description" : "Time to recover from issues.  Acceptable data loss from issue.  Backup frequencies/generations.",
+		"abbreviation" : "RC",
+		"includeInEvaluation": false
+	},
+	{
+		"name" : "reliability",
+		"type" : "boolean",
+		"description" : "Mean time betweeen failures.  Mean time to recovery",
+		"abbreviation" : "RL",
+		"includeInEvaluation": false
+	},
+	{
+		"name" : "security",
+		"type" : "boolean",
+		"description" : "",
+		"abbreviation" : "SC",
+		"includeInEvaluation": false
+	},
+	{
+		"name" : "usability",
+		"type" : "boolean",
+		"description" : "Factors that constitute the capacity of the software to be understood, learned, and used by intended users",
+		"abbreviation" : "US",
+		"includeInEvaluation": false
+	},
+	{
+		"name" : "other nonfunctional",
+		"type" : "boolean",
+		"description" : "",
+		"abbreviation" : "OT",
+		"includeInEvaluation": false
+	},
+	{
+		"name" : "database design",
+		"type" : "boolean",
+		"description" : "does this sentence currently imply or explicitly define database design?",
+		"abbreviation" : "DB",
+		"includeInEvaluation": true
+	},
+	{
+		"name" : "functional",
+		"type" : "boolean",
+		"description" : "",
+		"abbreviation" : "FT",
+		"includeInEvaluation": false
+	}
+	]
+}
